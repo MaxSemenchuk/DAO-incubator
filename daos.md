@@ -1,6 +1,16 @@
 # DAO Leads
 
-### Projects
+### DAO Application Structure:
+
+* Title
+* Purpose
+* Governed objects & Mechanics
+* Current stage
+* Looking for a\) expertise \(which?\) b\) funding c\) else?
+* Contact Details
+* Links
+
+### Project Suspects:
 
 * New Commons
 * DAO publisher
@@ -11,4 +21,5 @@
 * Pando
 * Trojan DAO
 * DAO Ontology: Fuzzy Logic
+* Tennagraph 2.0
 
