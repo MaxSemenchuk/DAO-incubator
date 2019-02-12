@@ -1,4 +1,4 @@
-# Init
+# DAO Incubator
 
 ### Purpose
 
