@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Init](README.md)
+* [Tacticals](tacticals/README.md)
+  * [Tactical 12.02.2019](tacticals/tactical-12.02.2019.md)
 
