@@ -1,4 +1,4 @@
-# DAOs
+# DAO Leads
 
 Projects:
 
