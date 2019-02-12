@@ -4,7 +4,8 @@
 
 More experiments. More successful DAO pilots.
 
-[http://daoincubator.org](http://daoincubator.org)
+* Website: [http://daoincubator.org](http://daoincubator.org)
+* Logo: [https://www.figma.com/file/CKpTHRm12VAq7cVTpul75EyS/DAO-Incubator-logo?node-id=0%3A1](https://www.figma.com/file/CKpTHRm12VAq7cVTpul75EyS/DAO-Incubator-logo?node-id=0%3A1)
 
 ### Roles
 
