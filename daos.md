@@ -1,6 +1,6 @@
 # DAO Leads
 
-Projects:
+### Projects
 
 * New Commons
 * DAO publisher
