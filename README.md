@@ -17,6 +17,12 @@ More experiments. More successful DAO pilots.
 * [Tasks Board](https://trello.com/b/dWWt9SUj/dao-incubator)
 * [Realtime Mindmap](https://realtimeboard.com/welcomeonboard/3U2M3hyQolAUfwf8PFIvLIksh2h3HVR2gzBZs0LGrRCYoAgTvyUB668VA5tupte7)
 
+### Roadmap
+
+1. Update website: [daoincubator.org](http://daoincubator.org/) 
+2. [Workshop at EthCC](projects/workshop-at-ethcc.md) in Paris \(Mar 5-7\)
+3. Fundraise for some upfront activities
+
 ### Contacts
 
 * Max Semenchuk max.semenchuk@gmail.com
