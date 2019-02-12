@@ -12,5 +12,9 @@
 * Repo: [https://github.com/MaxSemenchuk/DAO-incubator](https://github.com/MaxSemenchuk/DAO-incubator)
 * Tasks: [https://trello.com/b/dWWt9SUj/dao-incubator](https://trello.com/b/dWWt9SUj/dao-incubator)
 
+### Contacts
 
+* Max Semenchuk max.semenchuk@gmail.com
+* Daniel Shavit daniel@horatiipartners.com
+* Cem Dagdelen fcdagdelen@gmail.com
 
