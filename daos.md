@@ -4,8 +4,8 @@
 
 * Title
 * Purpose
-* Governed objects & Mechanics
-* Current stage
+* Governed Objects & Mechanics
+* Current Stage \(idea, POC...\)
 * Looking for a\) expertise \(which?\) b\) funding c\) else?
 * Contact Details
 * Links
