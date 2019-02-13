@@ -22,12 +22,13 @@ More experiments. More successful DAO pilots.
 
 ### Partners
 
-* Common interest –
-* Greater than –
-* Bushwick Generator –
-* DAO Stack – 
-* DGOV Foundation – media
-* Tribute – 
+* Common interest
+* Greater than
+* Bushwick Generator
+* DGOV Foundation
+* Tribute
+* Pando
+* trojan foundation
 
 ### Roadmap
 
