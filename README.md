@@ -20,6 +20,15 @@ More experiments. More successful DAO pilots.
 * [Tasks Board](https://trello.com/b/dWWt9SUj/dao-incubator)
 * [Realtime Mindmap](https://realtimeboard.com/welcomeonboard/3U2M3hyQolAUfwf8PFIvLIksh2h3HVR2gzBZs0LGrRCYoAgTvyUB668VA5tupte7)
 
+### Partners
+
+* Common interest –
+* Greater than –
+* Bushwick Generator –
+* DAO Stack – 
+* DGOV Foundation – media
+* Tribute – 
+
 ### Roadmap
 
 1. Update website: [daoincubator.org](http://daoincubator.org/) 
