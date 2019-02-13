@@ -7,8 +7,15 @@
 * Governed Objects & Mechanics
 * Current Stage \(idea, POC...\)
 * Looking for a\) expertise \(which?\) b\) funding c\) else?
-* Contact Details
+* Contact Details \(person, email, location\)
 * Links
+* Coming to EthCC?
+
+### Strategy
+
+1. Make a google form for application
+2. Publish a project description \(Medium post?\)
+3. Share to all related communities
 
 ### Project Suspects:
 
