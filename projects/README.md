@@ -3,7 +3,7 @@ A list of internal research projects, incubations and implementations.
 
 ## Research
 ### New Commons
-A mechanism design specification for post nation state welfare and economic system. As its name suggests, the new commons is intended to be a masterstructure which can incentivize the production of commons resources and consolidate them in a unified architecture.
+A mechanism design specification for post nation state welfare and economic system. As its name suggests, the new commons is intended to be a master structure which can incentivize the production of commons resources and consolidate them in a unified architecture.
 The New Commons composes of 4 main components:
 - Liquidity Layer
 - Productivity Layer
@@ -16,7 +16,7 @@ The New Commons composes of 4 main components:
 #### Lead
 Cem F
 
-### Distributed Autonomous Lisences
+### Distributed Autonomous Licences
 A human-readable lisence framework for digital commons.
 #### Lead
 Alex R
