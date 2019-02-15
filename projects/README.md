@@ -1,4 +1,4 @@
-# Projects
+# Projects / Activities
 
 A list of internal research projects, incubations and implementations.
 
