@@ -17,7 +17,7 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 
 * [Website](http://daoincubator.org)
 * [Logo \(wip\)](https://www.figma.com/file/CKpTHRm12VAq7cVTpul75EyS/DAO-Incubator-logo?node-id=0%3A1)
-* DAO Submission form
+* [DAO Submission form](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)
 
 ### Roles
 
