@@ -41,6 +41,7 @@ We can collab on that, Dani can take as a deliverable for next week
 
 ### How do we organize – DAO or ...
 
-Max: just a volunteering team for now, to be formalized some time before getting funded.Cem: lets look at blockcsience  
+Max: just a volunteering team for now, to be formalized some time before getting funded.  
+Cem: lets look at blockcsience  
 For the next call – Friday
 
