@@ -2,7 +2,19 @@
 
 ### Intro round
 
+Beth: work Starfish SF / NY and experimental lab in AI, blockchain etc Experimented with the funding mechanisms. Bunch of different projects want to coordinate in the space. Also dOrg. Human-centric design, expand discussion.
 
+Cori: working on tools for modeling work for gov mechanisms. A lot of research on networks to leverage the existent.
+
+Max: \#dgov community and foundation
+
+Phil: interest in decentralized orgs and social impact. Worked on the Backfeed, now Tribute. Service for distribution of value and power. Want to build it as a DAO.
+
+Adam: started as crypto journalist \(EthNews\), other projects, academic press. Involved in Giveth, that tries to capture the transparency, way to make non-profit more transparent.
+
+James: Greeks received a series of bailout, not a lot of funding/work there. Funding mechs for the art world become side type pool. Create a DAO around token bonding curve, that's an experiment for living wage for artists.
+
+Seth: Working on a project with NFC at the Bushwick generator, where we teach artists to tokenize their work. Either 3d or physical.
 
 ### Cem – Makes an overview of what we have now + Wrap up the projects
 
@@ -44,7 +56,7 @@ Beth: Starfish vision was connected with Berlin/NY/SF, fullnode, buschwick. Ecos
 
 Cem: lot's of synergy with that.
 
-
+Let's discuss how you can contribute in the chat.
 
 
 

@@ -21,7 +21,7 @@ A mechanism design specification for post nation state welfare and economic syst
 * DAO governance
 * dIdentity
 
-### Distributed Autonomous Licences
+### Distributed Autonomous Licenses
 
 Lead: Alex R
 
@@ -31,7 +31,7 @@ A human-readable license framework for digital commons.
 
 Lead: Cem F, Beth M
 
-A research & conceptualization initiative for an agent centric DAO ecosystem. The research draws inspiration and references from social ontology as well as political philosophy to uncover the relevance and power of interfaces as we move towards reforming existing socio-political landscape and its apparatus for coersion.
+A research & conceptualization initiative for an agent centric DAO ecosystem. The research draws inspiration and references from social ontology as well as political philosophy to uncover the relevance and power of interfaces as we move towards reforming existing socio-political landscape and its apparatus for coercion.
 
 ### Genesis DAO Defence Protocol
 
