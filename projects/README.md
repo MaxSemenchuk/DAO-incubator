@@ -51,7 +51,3 @@ Lead: Beth M, Cory D
 
 ...
 
-## Incubation
-
-### 
-
