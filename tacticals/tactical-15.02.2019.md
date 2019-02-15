@@ -2,3 +2,5 @@
 
 Max / how we make decisions
 
+Max / No answer from EthCC + continue / do smth different?
+
