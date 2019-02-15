@@ -2,7 +2,7 @@
 
 ### About
 
-Our purpose if to create more experiments, more successful DAO pilots.
+Our purpose is to create more successful DAO pilots, through research, experiments and incubation.
 
 At DAO Incubator we bring together builders, activists, researchers and investors to user in the age of DAOs. We believe the blockchain and decentralised governance space can benefit greatly from a network of physical locations that are conductive to: 
 
@@ -16,7 +16,7 @@ At DAO Incubator we bring together builders, activists, researchers and investor
 Our model requires us to use cutting edge tools for decentralized governance, funding and task allocation as well establishing a future DAO oriented and managed fund.
 
 * [Website](http://daoincubator.org)
-* Telegram group
+* [Telegram group](https://t.me/DAOincubator)
 * [DAO Submission form](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)
 
 ### Roles
