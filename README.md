@@ -1,11 +1,23 @@
 # DAO Incubator
 
-### Purpose
+### About
 
-More experiments. More successful DAO pilots.
+Our purpose if to create more experiments, more successful DAO pilots.
 
-* Website: [http://daoincubator.org](http://daoincubator.org)
-* Logo: [https://www.figma.com/file/CKpTHRm12VAq7cVTpul75EyS/DAO-Incubator-logo?node-id=0%3A1](https://www.figma.com/file/CKpTHRm12VAq7cVTpul75EyS/DAO-Incubator-logo?node-id=0%3A1)
+At DAO Incubator we bring together builders, activists, researchers and investors to user in the age of DAOs. We believe the blockchain and decentralised governance space can benefit greatly from a network of physical locations that are conductive to: 
+
+* knowledge transfers
+* fostering cross project pollination and conducting integrations
+* fundamental and practical research on behalf of DAOs and third parties
+* grant applications match-making and support
+* funding for incubatees
+* prototyping and deploying DAOs for communities as well as traditional institutions and companies
+
+Our model requires us to use cutting edge tools for decentralized governance, funding and task allocation as well establishing a future DAO oriented and managed fund.
+
+* [Website](http://daoincubator.org)
+* [Logo \(wip\)](https://www.figma.com/file/CKpTHRm12VAq7cVTpul75EyS/DAO-Incubator-logo?node-id=0%3A1)
+* DAO Submission form
 
 ### Roles
 
