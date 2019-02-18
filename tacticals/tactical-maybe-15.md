@@ -1,4 +1,4 @@
-# Tactical ? maybe 15
+# Tactical 25.02.2019
 
 Max / how we make decisions
 

@@ -22,9 +22,9 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 
 ### Roles
 
-* [DAO Leads](daos.md) \(website, comms strategy\) – Max
 * [Expertise centre](expertise-center.md) – Dani + Adam \(Giveth\) 
 * [Funding](funding.md) \(+model\) – Cem
+* [DAO Leads](daos.md) \(website, comms strategy\) – Max
 
 ### Coordination
 
