@@ -6,3 +6,5 @@ Max / No answer from EthCC + continue / do smth different? e.g. virtual incubato
 
 Max / Start accepting submissions?
 
+Max / Aragon incubator?
+
