@@ -19,6 +19,7 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * [Telegram group](https://t.me/DAOincubator)
 * [DAO Submission form](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)
 * [Presentation](https://docs.google.com/presentation/d/1fSwhns7Fj1lQumvBNCGsDtobj8q9VBEbjIm6tqs84bg/edit#slide=id.p)
+* [Calendar](https://calendar.google.com/calendar/embed?src=mcgl48g41jnkbnm9kq87o9s9i8%40group.calendar.google.com&ctz=Europe%2FKiev) \(working group call etc\)
 
 ### Roles
 
