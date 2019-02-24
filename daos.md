@@ -45,6 +45,8 @@ A peer review journal published and run by a DAO
 
 Team Daniel S
 
+
+
 ### Suspects
 
 * New Commons
@@ -57,4 +59,6 @@ Team Daniel S
 * Trojan DAO
 * DAO Ontology: Fuzzy Logic
 * Media DAO / Tennagraph 2.0
+* The Sphere w ECSA
+* Bankrupcy DAO
 
