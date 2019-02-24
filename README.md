@@ -53,6 +53,6 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 ### Contacts
 
 * Max Semenchuk max.semenchuk@gmail.com
-* Daniel Shavit daniel@horatiipartners.com
+* Daniel Shavit daniel@pando.network
 * Cem Dagdelen fcdagdelen@gmail.com
 
