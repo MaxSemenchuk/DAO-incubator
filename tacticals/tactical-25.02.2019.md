@@ -105,9 +105,8 @@ Adam: cooperative, collaborative practices need to be together. Makes no sense i
 
 continue / do smth different? e.g. virtual incubator + show to VCs
 
-## Max / Aragon incubator?
 
 ## Max / Goals
 
-## Dani / Naming
+
 
