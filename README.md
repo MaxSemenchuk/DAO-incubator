@@ -1,10 +1,10 @@
 # DAO Incubator
 
-### About
+## About
 
 Our purpose is to create more successful DAO pilots, through research, experiments and incubation.
 
-At DAO Incubator we bring together builders, activists, researchers and investors to user in the age of DAOs. We believe the blockchain and decentralised governance space can benefit greatly from a network of physical locations that are conductive to: 
+At DAO Incubator we bring together builders, activists, researchers and investors to user in the age of DAOs. We believe the blockchain and decentralised governance space can benefit greatly from a network of physical locations that are conductive to:
 
 * knowledge transfers
 * fostering cross project pollination and conducting integrations
@@ -21,20 +21,20 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * [Presentation](https://docs.google.com/presentation/d/1fSwhns7Fj1lQumvBNCGsDtobj8q9VBEbjIm6tqs84bg/edit#slide=id.p)
 * [Calendar](https://calendar.google.com/calendar/embed?src=mcgl48g41jnkbnm9kq87o9s9i8%40group.calendar.google.com&ctz=Europe%2FKiev) \(working group call etc\)
 
-### Roles
+## Roles
 
 * [Expertise centre](expertise-center.md) – Dani + Adam \(Giveth\) 
 * [Funding](funding.md) \(+model\) – Cem
 * [DAO Leads](daos.md) \(website, comms strategy\) – Max
 
-### Coordination
+## Coordination
 
 * Weekly call for coordination \(time TBA\) + [Meeting minutes](tacticals/)
 * [Wiki / Repository](https://github.com/MaxSemenchuk/DAO-incubator)
 * [Tasks Board](https://trello.com/b/dWWt9SUj/dao-incubator)
 * [Realtime Mindmap](https://realtimeboard.com/welcomeonboard/3U2M3hyQolAUfwf8PFIvLIksh2h3HVR2gzBZs0LGrRCYoAgTvyUB668VA5tupte7)
 
-### Partners
+## Partners
 
 * Common interest
 * Greater than
@@ -44,13 +44,13 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * Pando
 * trojan foundation
 
-### Roadmap
+## Roadmap
 
 1. Update website: [daoincubator.org](http://daoincubator.org/) 
 2. [Workshop at EthCC](projects/workshop-at-ethcc.md) in Paris \(Mar 5-7\)
 3. Fundraise for some upfront activities
 
-### Contacts
+## Contacts
 
 * Max Semenchuk max.semenchuk@gmail.com
 * Daniel Shavit daniel@pando.network

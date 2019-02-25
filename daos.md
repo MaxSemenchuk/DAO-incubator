@@ -45,8 +45,6 @@ A peer review journal published and run by a DAO
 
 Team Daniel S
 
-
-
 ### Suspects
 
 * New Commons
