@@ -26,7 +26,7 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * [Expertise centre](expertise-center.md) – Dani + Adam \(Giveth\) 
 * [Funding](funding.md) \(+model\) – Cem
 * [DAO Leads](daos.md) \(website, comms strategy\) – Max
-* Facilitator – ?
+* Facilitator – Cem
 * Secretary – Max
 
 ## Coordination
