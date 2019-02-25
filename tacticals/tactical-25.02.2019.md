@@ -81,7 +81,7 @@ Adam: A lot of teams and initiative come with inherited structures. How to allow
 
 Beth: NFT can be an asset or unit of governance. So we can port a governance or an asset. Create a mech model with funding tied to an asset, with a specific form and need.
 
-Dani: US participants are focused more on NFT, and EU on governance.
+Dani: Interesting to see US participants are focused more on NFT/property rights primitives, and EU on redistribution/stakeholder definition.
 
 Beth: model was based on talking with artists, funding structures, survival and creation is more important than control. If you meet this params in term of value alignment. Will write and send. The entire idea is to control and collusion.
 
