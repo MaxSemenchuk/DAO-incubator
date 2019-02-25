@@ -6,6 +6,8 @@
 * start organically developing a process for the DAOincubator
 * start to crystallize the roles in our community
 
+## Max / Roles and assigns
+
 ## Max / how we make decisions
 
 ## Max / No answer from EthCC 
