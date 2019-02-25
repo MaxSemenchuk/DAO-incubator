@@ -41,11 +41,35 @@ Created an Aragon DAO for grants, maybe also an Estonian company. We're looking 
 * launch research initiatives & start publishing
 * start DAOincubator PoC
 
-## Cem / Trojan
+Pedro: let's recognize a preparational stage and don't keep strong attachments.
+
+Cem: yeap
+
+Dani: same for roles
+
+@crosspollination – everybody can propose a project.
+
+## Cem / Trojan workshop
+
+[Description draft](https://docs.google.com/document/d/1YkHNCJEoTeZH_jx0S5rlM7Fppld7wUCbHH6Mf8qM-jA/edit?usp=sharing)
+
+Goals:
 
 * advancing the Trojan vision and implementation
 * start organically developing a process for the DAOincubator
 * start to crystallize the roles in our community
+
+Tools / Primitives:
+
+* Bonding curves
+
+Cory: are you using an NFT? 
+
+Adam: No. Using Trojan token, for tickets and other things, converted to Eth.
+
+Cory: you can provide liquidity by limiting the amount of reserve. We need a secondary market for people who want to liquidate. Front running is also a challenge. Creating a token that is worth something and you can actually liquidate. Plus a lot of such system tie token to governance. It's with debating whether it should be used.
+
+Adam: for certain projects, like sculpture, it can be purchasable only by Trojan token.
 
 ## Max / Roles and assigns
 
