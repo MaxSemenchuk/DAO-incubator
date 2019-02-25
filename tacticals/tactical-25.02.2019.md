@@ -67,9 +67,35 @@ Cory: are you using an NFT?
 
 Adam: No. Using Trojan token, for tickets and other things, converted to Eth.
 
-Cory: you can provide liquidity by limiting the amount of reserve. We need a secondary market for people who want to liquidate. Front running is also a challenge. Creating a token that is worth something and you can actually liquidate. Plus a lot of such system tie token to governance. It's with debating whether it should be used.
+Cory: you can provide liquidity by limiting the amount of reserve. We need a secondary market for people who want to liquidate. Front running is also a challenge. Creating a token that is worth something and you can actually liquidate. Plus a lot of such system tie token to governance. It's with debating whether it should be used. Doesn't lead to decentralization.
 
-Adam: for certain projects, like sculpture, it can be purchasable only by Trojan token.
+Adam: for certain projects, like sculpture, it can be purchasable only by Trojan token. Splitting into several tokens: voting, reputation, project specific \(non-transferable\). On this topic of collusion, somebody holding the tokens can vote for other project \(bribing etc\).
+
+Beth: using a token to support artists with NFT and RFT. Can send some materials. We can resolve many projects with them.
+
+Seth: what problems we're trying to solve with Trojan? 
+
+Cem: project specific DAOs for multilayered system. How to get your voice to top level DAO? Main issues we're trying to solve here.
+
+Adam: A lot of teams and initiative come with inherited structures. How to allow the reflexivity and also operate a super DAO.
+
+Beth: NFT can be an asset or unit of governance. So we can port a governance or an asset. Create a mech model with funding tied to an asset, with a specific form and need.
+
+Dani: US participants are focused more on NFT, and EU on governance.
+
+Beth: model was based on talking with artists, funding structures, survival and creation is more important than control. If you meet this params in term of value alignment. Will write and send. The entire idea is to control and collusion.
+
+Dani: There's an issue: popularity over quality. How we can work with it?
+
+Adam: there needs to be a certain signaling process. Community \(aligned with interest with Trojan\) signal to be distinguished with outside signals. That's why we avoid the NFT primitive so far. So it's incubated by a DAO. Funded by ticket space, collab with the spaces.  With NFT we need to be thinking of interfaces. Currently they don't use NFT to govern the rights.
+
+Cem: main objectives of Trojan foundation? Inclusivity, reformation? So we can propose better solutions
+
+Adam: there's no way to buy your away to reputation. Only the reputation token guide the direction.
+
+Adam: cooperative, collaborative practices need to be together. Makes no sense if art critic is competing with the space. 
+
+...
 
 ## Max / Roles and assigns
 
@@ -83,5 +109,5 @@ continue / do smth different? e.g. virtual incubator + show to VCs
 
 ## Max / Goals
 
-### Dani / Naming
+## Dani / Naming
 
