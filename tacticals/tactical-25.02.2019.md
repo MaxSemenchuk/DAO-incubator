@@ -32,7 +32,7 @@ Cem: organized by Erik Bordello \(sorry if misspelled\), economist and much more
 
 ### Dani / post about the design
 
-Created an Aragon DAO for grants, maybe also an Estonian company. We're looking towards funding to build the sustainable operations. The question is who will fund it, long term strategy, reputation mechanics. Will share the article and we can discuss.
+Created an Aragon DAO to manage funds/dogfood/jumpstart our governance process, maybe also an Estonian company if we advise non crypto entities. We're looking towards funding model to build the sustainable operations. The question is who will fund it, long term strategy, reputation mechanics. Redistribution to contributors. Naming of the project. Flexibility in roles while starting, things should evolve contextually, however still good to know each other skills and balance these out on projects. Will share the article and we can discuss.
 
 ## Cem / Roadmap
 
