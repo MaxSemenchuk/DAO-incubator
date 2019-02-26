@@ -21,15 +21,31 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * [Presentation](https://docs.google.com/presentation/d/1fSwhns7Fj1lQumvBNCGsDtobj8q9VBEbjIm6tqs84bg/edit#slide=id.p)
 * [Calendar](https://calendar.google.com/calendar/embed?src=mcgl48g41jnkbnm9kq87o9s9i8%40group.calendar.google.com&ctz=Europe%2FKiev) \(working group call etc\)
 
-## Roles
+## Strategy
+
+### Roadmap
+
+1. Update website: [daoincubator.org](http://daoincubator.org/) 
+2. [Workshop at EthCC](projects/workshop-at-ethcc.md) in Paris \(Mar 5-7\)
+3. Fundraise for some upfront activities
+
+* formation of an organizational architecture with filled roles 
+* establishing relationships with the ecosystem
+* launch research initiatives & start publishing
+* start DAOincubator PoC
+
+## Governance
+
+### Roles
 
 * [Expertise centre](expertise-center.md) – Dani + Adam \(Giveth\) 
 * [Funding](funding.md) \(+model\) – Cem
 * [DAO Leads](daos.md) \(website, comms strategy\) – Max
+* Expert – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
 * Facilitator – Cem
 * Secretary – Max
 
-## Coordination
+### Coordination
 
 * Weekly call for coordination \(time TBA\) + [Meeting minutes](tacticals/)
 * [Wiki / Repository](https://github.com/MaxSemenchuk/DAO-incubator)
@@ -45,12 +61,6 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * Tribute
 * Pando
 * trojan foundation
-
-## Roadmap
-
-1. Update website: [daoincubator.org](http://daoincubator.org/) 
-2. [Workshop at EthCC](projects/workshop-at-ethcc.md) in Paris \(Mar 5-7\)
-3. Fundraise for some upfront activities
 
 ## Contacts
 

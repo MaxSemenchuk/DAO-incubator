@@ -6,15 +6,15 @@ Haythem – dev from Tunisia, working with Trojan, crowdsale smart contract. Als
 
 James Duncan – fan, talking about the incubator for 3 month already. Super excited to give a successful launch to this DAO.
 
-Beth – Starfish, looking forward to discover the updates
+Beth – Starfish, looking forward to discover the updates
 
-Seth – nifty supply, help artist to fund their work
+Seth – nifty supply, help artist to fund their work
 
-Pedro – blockchain / ecology researchers, economic space agency
+Pedro – blockchain / ecology researchers, economic space agency
 
-Theo – background in innovation management
+Theo – background in innovation management
 
-Cory – 
+Cory –
 
 ## Announcements
 
@@ -47,7 +47,7 @@ Cem: yeap
 
 Dani: same for roles
 
-@crosspollination – everybody can propose a project.
+@crosspollination – everybody can propose a project.
 
 ## Cem / Trojan workshop
 
@@ -63,7 +63,7 @@ Tools / Primitives:
 
 * Bonding curves
 
-Cory: are you using an NFT? 
+Cory: are you using an NFT?
 
 Adam: No. Using Trojan token, for tickets and other things, converted to Eth.
 
@@ -73,7 +73,7 @@ Adam: for certain projects, like sculpture, it can be purchasable only by Trojan
 
 Beth: using a token to support artists with NFT and RFT. Can send some materials. We can resolve many projects with them.
 
-Seth: what problems we're trying to solve with Trojan? 
+Seth: what problems we're trying to solve with Trojan?
 
 Cem: project specific DAOs for multilayered system. How to get your voice to top level DAO? Main issues we're trying to solve here.
 
@@ -87,13 +87,13 @@ Beth: model was based on talking with artists, funding structures, survival and 
 
 Dani: There's an issue: popularity over quality. How we can work with it?
 
-Adam: there needs to be a certain signaling process. Community \(aligned with interest with Trojan\) signal to be distinguished with outside signals. That's why we avoid the NFT primitive so far. So it's incubated by a DAO. Funded by ticket space, collab with the spaces.  With NFT we need to be thinking of interfaces. Currently they don't use NFT to govern the rights.
+Adam: there needs to be a certain signaling process. Community \(aligned with interest with Trojan\) signal to be distinguished with outside signals. That's why we avoid the NFT primitive so far. So it's incubated by a DAO. Funded by ticket space, collab with the spaces. With NFT we need to be thinking of interfaces. Currently they don't use NFT to govern the rights.
 
 Cem: main objectives of Trojan foundation? Inclusivity, reformation? So we can propose better solutions
 
 Adam: there's no way to buy your away to reputation. Only the reputation token guide the direction.
 
-Adam: cooperative, collaborative practices need to be together. Makes no sense if art critic is competing with the space. 
+Adam: cooperative, collaborative practices need to be together. Makes no sense if art critic is competing with the space.
 
 ...
 
@@ -101,12 +101,9 @@ Adam: cooperative, collaborative practices need to be together. Makes no sense i
 
 ## Max / How we make decisions
 
-## Max / No answer from EthCC 
+## Max / No answer from EthCC
 
 continue / do smth different? e.g. virtual incubator + show to VCs
 
-
 ## Max / Goals
-
-
 
