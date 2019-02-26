@@ -56,6 +56,7 @@ Ensuring devlivering the org purpose, prioritisation, resource allocation and as
 * An understanding of potential synergies between projects and funding partners
 * Maintenance of a dynamic list of open grants
 * Relationships with funding partners
+* Assisting the projects for investment readiness \(deck preparation etc\)
 
 ### Coordination
 
