@@ -20,19 +20,7 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * [DAO Submission form](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)
 * [Presentation](https://docs.google.com/presentation/d/1fSwhns7Fj1lQumvBNCGsDtobj8q9VBEbjIm6tqs84bg/edit#slide=id.p)
 * [Calendar](https://calendar.google.com/calendar/embed?src=mcgl48g41jnkbnm9kq87o9s9i8%40group.calendar.google.com&ctz=Europe%2FKiev) \(working group call etc\)
-
-## Strategy
-
-### Roadmap
-
-1. Update website: [daoincubator.org](http://daoincubator.org/) 
-2. [Workshop at EthCC](projects/workshop-at-ethcc.md) in Paris \(Mar 5-7\)
-3. Fundraise for some upfront activities
-
-* formation of an organizational architecture with filled roles 
-* establishing relationships with the ecosystem
-* launch research initiatives & start publishing
-* start DAOincubator PoC
+* [Strategy & Governance](governance.md)
 
 ## Partners
 

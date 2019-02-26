@@ -1,4 +1,17 @@
-# Governance
+# Strategy & Governance
+
+## Strategy
+
+### Roadmap
+
+1. Update website: [daoincubator.org](http://daoincubator.org/) 
+2. [Workshop at EthCC](projects/workshop-at-ethcc.md) in Paris \(Mar 5-7\)
+3. Fundraise for some upfront activities
+
+* formation of an organizational architecture with filled roles 
+* establishing relationships with the ecosystem
+* launch research initiatives & start publishing
+* start DAOincubator PoC
 
 ## Roles
 
