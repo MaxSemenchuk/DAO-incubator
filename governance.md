@@ -2,16 +2,12 @@
 
 ## Strategy
 
-### Roadmap
+### Goals 2019
 
-1. Update website: [daoincubator.org](http://daoincubator.org/) 
-2. [Workshop at EthCC](projects/workshop-at-ethcc.md) in Paris \(Mar 5-7\)
-3. Fundraise for some upfront activities
-
-* formation of an organizational architecture with filled roles 
-* establishing relationships with the ecosystem
-* launch research initiatives & start publishing
-* start DAOincubator PoC
+* Formation of an organizational architecture with filled roles 
+* Establishing relationships with the ecosystem
+* Launch research initiatives & start publishing
+* Start DAOincubator PoC
 
 ## Roles
 
@@ -25,7 +21,7 @@
 
 ### Directorship
 
-Ensuring devlivering the org purpose, prioritisation, resource allocation and assignment to roles.
+Ensuring delivering the org purpose, prioritization, resource allocation and assignment to roles.
 
 ### Funding & Grants manager
 
