@@ -38,12 +38,17 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 
 ### Roles
 
+* [Directorship](./#directorship) – Cem
 * [Expertise centre](expertise-center.md) – Dani + Adam \(Giveth\) 
-* [Funding](funding.md) \(+model\) – Cem
-* [DAO Leads](daos.md) \(website, comms strategy\) – Max
+* [Funding](funding.md) – ?
+* [Communications](daos.md) – Max
 * Mentor – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
 * Facilitator – Cem
 * Secretary – Max
+
+#### Directorship
+
+Ensuring devlivering the org purpose, prioritisation, resource allocation and assignment to roles.
 
 ### Coordination
 

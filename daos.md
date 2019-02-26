@@ -1,4 +1,4 @@
-# DAO Projects
+# Communications
 
 ## DAO Identification
 

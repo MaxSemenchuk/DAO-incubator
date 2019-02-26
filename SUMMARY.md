@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DAO Incubator](README.md)
-* [DAO Projects](daos.md)
+* [Communications](daos.md)
 * [Expertise Center](expertise-center.md)
 * [Funding](funding.md)
 * [Projects / Activities / Groups](projects/README.md)
