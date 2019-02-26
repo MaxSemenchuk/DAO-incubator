@@ -1,5 +1,57 @@
 # Tactical 25.02.2019
 
+[https://docs.google.com/document/d/1Fa-AvQNNP4a2cXHX1GVaGYYT-Ypt3uzPdinZ8PqZT4M/edit](https://docs.google.com/document/d/1Fa-AvQNNP4a2cXHX1GVaGYYT-Ypt3uzPdinZ8PqZT4M/edit)
+
+Adam, \[25.02.19 19:59\] Cem — how to engage artists who are not tech savvy and not immediately inclined to join?
+
+Simbouras — we shouldn’t replace existing governance structures with something scalable on chain, but to think about hybrids that bring the two worlds together in a modular way. On the value layer, when proposing a borderless system of value distribution in a country where there are captial flight protections in place.
+
+Cory — I’m not pushing NFTs, ERC20s or any other solution, but looking at how rep and voting flow in the system, you can either reward decisions that make the org more sustainable. Policies and intentions should be well defined. As long as that’s the case, then people playing “economic games” may not be a problem. If everyone receives a kickback when someone receives commercial success, it minimizes the affect that outside money can have. With that said, I’m still fuzzy on whether or not there need to be a global rep system that’s directly tied to a success of a particular project. Maybe projects can have set runway. There are some things which are hard to capture value on chain \(performance art\) but their work can still bring positive attention to the TF. There are other metrics besides the treasury that constitute success. New membership, etc. Keep the range of goals, not just $, in mind.
+
+Cem — you’re pointing to the overarching DAO’s objectives, and maybe accountability metrics towards its operations?
+
+Cory — yeah, so if someone wants to dump a lot of money into the communal wallet, they don’t become a problematic force because they’re aligned with the DAO’s global sustainability policy.
+
+Simbouras — It’s important to separate value transfer and governance layers.
+
+Cory — I’d push back a bit, they should be loosely coupled, but completely decoupling them puts the community at risk.
+
+Simbouras — One thing we’re looking at is when the community reaches financialization, there’s also a governance fund that distributes percentages to voters in previous stages of developmebnt of the project that rewards them for having supported a model that ended up working.
+
+Beth — I want to make sure that we also draw back here and look at how this discussion relates to the purpose of DAOIncubator as well. Let’s recognize TF as a concept and also make sure we understand why we’re having this discussion about tokenomics.
+
+Cem — The connection between DAOInc and these PoCs — the main objective is to be useful for the project we’re incubating and finding solutions that are reputable in the ecosystem. This problem of local vs global is everywhere, so bringing together a special group of people who can recommend designs to experiment with these models and generate empirical evidence of how these cryptoeconomic primitives actually play out in the wild. Manifesting our value proposition as we go, and this initiative seemed like a great place to start because it could be replicated outside of Athens as well. Many crypto projects are focused on a more global attention economy, not local solutions.
+
+Daniel — every week of two weeks we can look at new projects and do follow up workshops. Not just advising on tokenomics but also connect them with funding sources, devs, legal advice, to help these projects be realized in the real world.
+
+Cem — we already thought about this — some roles can involve community guidance for this to take place — going to Athens and onboarding new users, for instance. This is one element that’s lacking in these experiments. People are launching lots of DAOs but not sustainably creating/ educating the intended communities of users.
+
+Daniel — bring in non crypto people so DAOs can be more than just a protocol.
+
+Cem — community role that has to be filled \(this can be osmotic, people coming in and out.\) Management consulting, which is a horrible job to have, but it gives you a sense of pattern recognition by seeing different industries. Also looking for a grant/ funding manager, who can talk about projects’ value propositions and is aware of/ tapped into sources of funding.
+
+Adam, \[25.02.19 19:59\] I propose creating a flow chart about rep, profitability, etc. One from the perspective of the art worker, another from the funding provider, another that’s the overall flow of the DAO. Clear flowcharts will be an important way to clarify the proposals for the working group.
+
+Duncan — I could also refine and share some charts
+
+Haythem — I’m a solidity dev with several projects including TF, currently researching projects that have implemented bonding curves. We’re looking at a two bonding curve model, one with an ETH reserve and one with a global rep reserve that issues project rep.
+
+Theo — It’s important to test and validate the methods we’re discussing. What are appropriate vs inappropriate? Design thinking and designing workshops, how to make them as effective as possible. Test internally and scale to outside. That could also be an interesting role.
+
+Cem — the culture of DAOIncubator could be testing the systems we’re designing, maybe MVPs and becoming a hands-on laboratory before spinning things out.
+
+Simbouras — and if innovative mechanisms come out of this, they can be focused on the development side as well we can document them properly so other DAOs can more easily plug into them.
+
+Cem — can you do a short doc on designs we can test, etc.
+
+Daniel — develop our own research and modules, either commissioned by clients or that we develop and take to potentially interesting parties. Any research ideas are welcome, even if they don’t relate to a specific project.
+
+Cem — this could be a great way to create our knowledge base so that the developer of a module/ code can comment on it to the group and add it to the pool of resources at our disposal.
+
+Duncan — roles may continue to emerge. For next steps, getting a good visual representation of how the TF will function will help the group evaluate during the next call.
+
+Beth — anyone going to Paris? I can help organize a meetup there.
+
 ## New Comers
 
 Haythem – dev from Tunisia, working with Trojan, crowdsale smart contract. Also bonding curve. Also other 6 funded projects Here to explore and connect.
@@ -95,15 +147,59 @@ Adam: there's no way to buy your away to reputation. Only the reputation token g
 
 Adam: cooperative, collaborative practices need to be together. Makes no sense if art critic is competing with the space.
 
-...
+Adam, \[25.02.19 19:59\] Cem — how to engage artists who are not tech savvy and not immediately inclined to join?
+
+Simbouras — we shouldn’t replace existing governance structures with something scalable on chain, but to think about hybrids that bring the two worlds together in a modular way. On the value layer, when proposing a borderless system of value distribution in a country where there are captial flight protections in place.
+
+Cory — I’m not pushing NFTs, ERC20s or any other solution, but looking at how rep and voting flow in the system, you can either reward decisions that make the org more sustainable. Policies and intentions should be well defined. As long as that’s the case, then people playing “economic games” may not be a problem. If everyone receives a kickback when someone receives commercial success, it minimizes the affect that outside money can have. With that said, I’m still fuzzy on whether or not there need to be a global rep system that’s directly tied to a success of a particular project. Maybe projects can have set runway. There are some things which are hard to capture value on chain \(performance art\) but their work can still bring positive attention to the TF. There are other metrics besides the treasury that constitute success. New membership, etc. Keep the range of goals, not just $, in mind.
+
+Cem — you’re pointing to the overarching DAO’s objectives, and maybe accountability metrics towards its operations?
+
+Cory — yeah, so if someone wants to dump a lot of money into the communal wallet, they don’t become a problematic force because they’re aligned with the DAO’s global sustainability policy.
+
+Simbouras — It’s important to separate value transfer and governance layers.
+
+Cory — I’d push back a bit, they should be loosely coupled, but completely decoupling them puts the community at risk.
+
+Simbouras — One thing we’re looking at is when the community reaches financialization, there’s also a governance fund that distributes percentages to voters in previous stages of developmebnt of the project that rewards them for having supported a model that ended up working.
+
+Beth — I want to make sure that we also draw back here and look at how this discussion relates to the purpose of DAOIncubator as well. Let’s recognize TF as a concept and also make sure we understand why we’re having this discussion about tokenomics.
+
+Cem — The connection between DAOInc and these PoCs — the main objective is to be useful for the project we’re incubating and finding solutions that are reputable in the ecosystem. This problem of local vs global is everywhere, so bringing together a special group of people who can recommend designs to experiment with these models and generate empirical evidence of how these cryptoeconomic primitives actually play out in the wild. Manifesting our value proposition as we go, and this initiative seemed like a great place to start because it could be replicated outside of Athens as well. Many crypto projects are focused on a more global attention economy, not local solutions.
+
+Daniel — every week of two weeks we can look at new projects and do follow up workshops. Not just advising on tokenomics but also connect them with funding sources, devs, legal advice, to help these projects be realized in the real world.
+
+Cem — we already thought about this — some roles can involve community guidance for this to take place — going to Athens and onboarding new users, for instance. This is one element that’s lacking in these experiments. People are launching lots of DAOs but not sustainably creating/ educating the intended communities of users.
+
+Daniel — bring in non crypto people so DAOs can be more than just a protocol.
+
+Cem — community role that has to be filled \(this can be osmotic, people coming in and out.\) Management consulting, which is a horrible job to have, but it gives you a sense of pattern recognition by seeing different industries. Also looking for a grant/ funding manager, who can talk about projects’ value propositions and is aware of/ tapped into sources of funding.
+
+Adam, \[25.02.19 19:59\] I propose creating a flow chart about rep, profitability, etc. One from the perspective of the art worker, another from the funding provider, another that’s the overall flow of the DAO. Clear flowcharts will be an important way to clarify the proposals for the working group.
+
+Duncan — I could also refine and share some charts
+
+Haythem — I’m a solidity dev with several projects including TF, currently researching projects that have implemented bonding curves. We’re looking at a two bonding curve model, one with an ETH reserve and one with a global rep reserve that issues project rep.
+
+Theo — It’s important to test and validate the methods we’re discussing. What are appropriate vs inappropriate? Design thinking and designing workshops, how to make them as effective as possible. Test internally and scale to outside. That could also be an interesting role.
+
+Cem — the culture of DAOIncubator could be testing the systems we’re designing, maybe MVPs and becoming a hands-on laboratory before spinning things out.
+
+Simbouras — and if innovative mechanisms come out of this, they can be focused on the development side as well we can document them properly so other DAOs can more easily plug into them.
+
+Cem — can you do a short doc on designs we can test, etc.
+
+Daniel — develop our own research and modules, either commissioned by clients or that we develop and take to potentially interesting parties. Any research ideas are welcome, even if they don’t relate to a specific project.
+
+Cem — this could be a great way to create our knowledge base so that the developer of a module/ code can comment on it to the group and add it to the pool of resources at our disposal.
+
+Duncan — roles may continue to emerge. For next steps, getting a good visual representation of how the TF will function will help the group evaluate during the next call.
+
+Beth — anyone going to Paris? I can help organize a meetup there.
 
 ## Max / Roles and assigns
 
 ## Max / How we make decisions
-
-## Max / No answer from EthCC
-
-continue / do smth different? e.g. virtual incubator + show to VCs
 
 ## Max / Goals
 
