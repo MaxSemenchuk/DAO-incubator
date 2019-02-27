@@ -11,13 +11,13 @@
 
 ## Roles
 
-* [Directorship](governance.md#directorship) – Cem
-* [Expertise centre](expertise-center.md) – Dani + Adam \(Giveth\) 
-* [Funding & Grants manager](governance.md#funding-and-grants-manager) – Theo?
-* [Communications](daos.md) – Max
+* [Directorship](governance.md#directorship) – Cem Dagdelen
+* [Expertise centre](expertise-center.md) – Daniel Shavit
+* [Funding & Grants manager](governance.md#funding-and-grants-manager) – Theodor Beutel
+* [Communications](daos.md) – Max Semenchuk
 * Mentor – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
-* Facilitator – Cem
-* Secretary – Max
+* Facilitator – Cem Dagdelen
+* Secretary – Max Semenchuk
 
 ### Directorship
 
