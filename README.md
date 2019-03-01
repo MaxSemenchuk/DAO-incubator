@@ -24,7 +24,6 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 
 ## Partners
 
-* Common interest
 * Greater than
 * Bushwick Generator
 * DGOV Foundation
