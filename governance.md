@@ -16,8 +16,8 @@
 * [Funding & Grants manager](governance.md#funding-and-grants-manager) – Theodor Beutel
 * [Communications](daos.md) – Max Semenchuk
 * Mentor – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
-* Facilitator – Cem Dagdelen
-* Secretary – Max Semenchuk
+* Facilitator – rotating
+* Secretary – rotating
 
 ### Directorship
 
