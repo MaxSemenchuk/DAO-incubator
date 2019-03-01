@@ -21,11 +21,13 @@
 
 ### Directorship
 
-Purpose: Ensuring delivering the org purpose, prioritization, resource allocation and assignment to roles.
+Purpose: Ensuring delivering the org purpose
 
 Responsibilities:
 
-...
+* prioritization
+* resource allocation
+* assignment to roles.
 
 ### Expertise centre
 
