@@ -2,12 +2,12 @@
 
 ## Strategy
 
-### Goals 2019
+### Goals 2019 / Responsible
 
-* Formation of an organizational architecture with filled roles 
-* Establishing relationships with the ecosystem
-* Launch research initiatives & start publishing
-* Start DAOincubator PoC
+* Formation of an organizational architecture with filled roles – [Directorship](governance.md#directorship)
+* Establishing relationships with the ecosystem – [Communications](governance.md#communications)
+* Launch research initiatives & start publishing – [Expertise Center](governance.md#expertise-centre)
+* Start DAOincubator PoC – [Funding & Grants manager](governance.md#funding-and-grants-manager)
 
 ## Roles
 
@@ -21,9 +21,33 @@
 
 ### Directorship
 
-Ensuring delivering the org purpose, prioritization, resource allocation and assignment to roles.
+Purpose: Ensuring delivering the org purpose, prioritization, resource allocation and assignment to roles.
+
+Responsibilities:
+
+...
+
+### Expertise centre
+
+Purpose: ...
+
+Responsibilities:
+
+...
+
+### Communications
+
+### Purpose: ...
+
+Responsibilities:
+
+...
 
 ### Funding & Grants manager
+
+Purpose: ...
+
+Responsibilities:
 
 * Possessing awareness of the ecosystem landscape and the funding opportunities \(grants & investments\)
 * An understanding of potential synergies between projects and funding partners
