@@ -38,4 +38,5 @@ Team Daniel S
 * Media DAO / Tennagraph 2.0
 * The Sphere w ECSA
 * Bankrupcy DAO
+* stock photography dao
 
