@@ -4,16 +4,19 @@
 
 ### Goals 2019 / Responsible
 
-* Formation of an organizational architecture with filled roles – [Directorship](governance.md#directorship)
-* Establishing relationships with the ecosystem – [Communications](governance.md#communications)
-* Launch research initiatives & start publishing – [Expertise Center](governance.md#expertise-centre)
-* Start DAOincubator PoC – [Funding & Grants manager](governance.md#funding-and-grants-manager)
+* Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
+* Establishing relationships with the ecosystem – [Communications](./#communications)
+  * Make a google form for application
+  * Publish a project description \(Medium post?\)
+  * Share to all related communities
+* Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
+* Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
 
 ## Roles
 
-* [Directorship](governance.md#directorship) – Cem Dagdelen
+* [Directorship](./#directorship) – Cem Dagdelen
 * [Expertise centre](expertise-center.md) – Daniel Shavit
-* [Funding & Grants manager](governance.md#funding-and-grants-manager) – Theodor Beutel
+* [Funding & Grants manager](./#funding-and-grants-manager) – Theodor Beutel
 * [Communications](daos.md) – Max Semenchuk
 * Mentor – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
 * Facilitator – rotating
@@ -59,7 +62,7 @@ Responsibilities:
 
 ## Coordination
 
-* Weekly call for coordination \(time TBA\) + [Meeting minutes](tacticals/)
+* Weekly call for coordination \(time TBA\) + [Meeting minutes](../tacticals/)
 * [Wiki / Repository](https://github.com/MaxSemenchuk/DAO-incubator)
 * [Tasks Board](https://trello.com/b/dWWt9SUj/dao-incubator)
 * [Realtime Mindmap](https://realtimeboard.com/welcomeonboard/3U2M3hyQolAUfwf8PFIvLIksh2h3HVR2gzBZs0LGrRCYoAgTvyUB668VA5tupte7)

@@ -1,25 +1,4 @@
-# Communications
-
-## DAO Identification
-
-### Application Structure
-
-* Title
-* Purpose
-* Governed Objects & Mechanics
-* Current Stage \(idea, POC...\)
-* Looking for a\) expertise \(which?\) b\) funding c\) else?
-* Contact Details \(person, email, telegram, location\)
-* Links
-* Coming to EthCC?
-
-### Strategy
-
-1. Make a google form for application
-2. Publish a project description \(Medium post?\)
-3. Share to all related communities
-
-## Projects
+# DAOs
 
 ### Pando Network
 

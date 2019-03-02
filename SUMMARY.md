@@ -1,16 +1,20 @@
 # Table of contents
 
 * [DAO Incubator](README.md)
-* [Strategy & Governance](governance.md)
-* [Communications](daos.md)
-* [Expertise Center](expertise-center.md)
-* [Funding](funding.md)
-* [Projects / Activities / Groups](projects/README.md)
-  * [Marketing materials](projects/marketing-materials.md)
-  * [Workshop at EthCC](projects/workshop-at-ethcc.md)
-* [Tacticals](tacticals/README.md)
-  * [Tactical 12.02.2019](tacticals/tactical-12.02.2019.md)
-  * [Tactical 15.02.2019](tacticals/tactical-15.02.2019.md)
-  * [Tactical 25.02.2019](tacticals/tactical-25.02.2019.md)
-  * [Tactical 04.03.2019](tacticals/tactical-04.03.2019.md)
+* [DAOs](daos.md)
+
+## Org
+
+* [Strategy & Governance](org/governance/README.md)
+  * [Communications](org/governance/daos.md)
+  * [Expertise Center](org/governance/expertise-center.md)
+  * [Funding](org/governance/funding.md)
+* [Projects / Activities / Groups](org/projects/README.md)
+  * [Marketing materials](org/projects/marketing-materials.md)
+  * [Workshop at EthCC](org/projects/workshop-at-ethcc.md)
+* [Tacticals](org/tacticals/README.md)
+  * [Tactical 12.02.2019](org/tacticals/tactical-12.02.2019.md)
+  * [Tactical 15.02.2019](org/tacticals/tactical-15.02.2019.md)
+  * [Tactical 25.02.2019](org/tacticals/tactical-25.02.2019.md)
+  * [Tactical 04.03.2019](org/tacticals/tactical-04.03.2019.md)
 
