@@ -12,6 +12,10 @@
 * Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
 * Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
 
+### Tactics
+
+Start in networks with good soft governance first?
+
 ## Roles
 
 * [Directorship](./#directorship) – Cem Dagdelen
