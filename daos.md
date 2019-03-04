@@ -1,5 +1,9 @@
 # DAOs
 
+Start in networks with good soft governance?
+
+
+
 ### Pando Network
 
 A decentralized VCS implementation and Git integration based on IPFS & AragonOS. [https://github.com/pandonetwork](https://github.com/pandonetwork)
