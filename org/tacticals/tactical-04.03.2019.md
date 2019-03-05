@@ -5,7 +5,7 @@ Checklist:
 * Check-in
   * Share a recent DAO-related eureka moment/news/milestone of yours
   * Introduce first-time participants to the group
-    * Jordi, developer, interested in Trojan. Interested in DAO / Community incubator calls.
+    * Jordan, developer, interested in Trojan. Interested in DAO / Community incubator calls.
 * Admin concerns \(timing, notes\)
 
 ## Agenda <a id="Agenda"></a>
@@ -28,7 +28,7 @@ Dani: we’ve talked to many interested parties and we can discuss at ETHCC laun
 
 ### Max / DAOcon hackathon + VC
 
-Max: Talked with Tomaslav today, he’s organizing DAOcon\(?\) THey’re doing a DAO hackathon, which there might be a good opportunity for us to support, either by supplying judges, arranging something with our incubatees if we have some. Also we could engage some VCs to become judges or otherwise get involved in setting up framesworks for what the success of different models looks like, etc. Those are the thoughts for now, what do you think? Actionable?  
+Max: Talked with Tomislav today, he’s organizing [DAOcon](http://daocon.io). They’re doing a DAO hackathon, which there might be a good opportunity for us to support, either by supplying judges, arranging something with our incubatees if we have some. Also we could engage some VCs to become judges or otherwise get involved in setting up framesworks for what the success of different models looks like, etc. Those are the thoughts for now, what do you think? Actionable?  
 Cem: I like the jury idea, maybe we can explore further.  
 Jordan: Having different VCs come in is good in the sense that there’s capital there, but we’d have to be very clear of the strings attached – don’t want anyone taking over a project by staking. The economics of a DAO will vary from project to project and we have to make sure that undue influence is not granted to anyone.  
 Phil: I’m very interested in this event, I’ll likely be there, regarding the VCs, I agree with Jordi, but some VCs \(like Placeholder\) seem to understand the decentralized nature of this sort of projects and are actually willing to support the transition to decentralization, rather than capturing the value.  
@@ -72,14 +72,10 @@ Jordan: I agree with those points, passing the ball and having the main sets of 
 Phil: I’d like to figure out how I could contribute more, if this call is going to be weekly it needs to produce more.  
 Max: it was pretty productive, many questions touched everybody’s feedback, thanks for your time and insights
 
-
-
 ### Haven't discussed
 
 Dani / Keybase  
 Max: I think this was something related to creating a keybase channel, but we’ll discuss this later.
-
-
 
 Theo / Website: Does [https://daoincubator.org/](https://daoincubator.org/) work as a v1/MVP/first draft? Any ideas for future iterations \(content, functionality, design, …\)?
 
