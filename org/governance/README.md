@@ -4,6 +4,7 @@
 
 ### Goals 2019 / Responsible
 
+* Satisfying Trojan DAO needs – ?
 * Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
 * Establishing relationships with the ecosystem – [Communications](./#communications)
   * Make a google form for application
