@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DAO Incubator](README.md)
+* [Products](products.md)
 * [DAOs](daos.md)
 
 ## Org
