@@ -2,6 +2,8 @@
 
 ## Strategy
 
+Our purpose is to create more successful DAO pilots, through research, experiments and incubation.
+
 ### Goals 2019 / Responsible
 
 * Satisfying Trojan DAO needs – ?
