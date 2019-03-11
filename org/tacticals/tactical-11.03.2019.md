@@ -21,3 +21,5 @@ Max / setup expert calls for incubator?
 
 Max / DAO list \(article, wiki, forum\) + reviews + case studies
 
+Max / DAO Inc website / logo
+
