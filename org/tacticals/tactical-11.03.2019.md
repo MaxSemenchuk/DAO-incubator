@@ -23,3 +23,5 @@ Max / DAO list \(article, wiki, forum\) + reviews + case studies
 
 Max / DAO Inc website / logo
 
+Max / Recording tasks to trello
+
