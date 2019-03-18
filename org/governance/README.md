@@ -9,10 +9,8 @@ Our purpose is to create more successful DAO pilots, through research, experimen
 * Satisfying Trojan DAO needs – ?
 * Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
 * Establishing relationships with the ecosystem – [Communications](./#communications)
-  * Make a google form for application
-  * Publish a project description \(Medium post?\)
-  * Share to all related communities
 * Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
+* Mentor DAOs – Mentors
 * Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
 
 ### Tactics
@@ -24,9 +22,10 @@ Start in networks with good soft governance first?
 * [Directorship](./#directorship) – Cem Dagdelen
 * [Expertise centre](expertise-center.md) – Daniel Shavit
 * [Funding & Grants manager](./#funding-and-grants-manager) – Theodor Beutel
-* Mentor – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
-* Facilitator – rotating
-* Secretary – rotating
+* [Communications](./#communications) – Max Semenchuk
+* [Mentor](./#mentor) – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
+* [Facilitator](./#facilitator) – rotating
+* [Secretary](./#facilitator) – rotating
 
 ### Directorship
 
@@ -80,6 +79,12 @@ Accountabilities:
 
 * Capturing and publishing the outputs of the meetings, and maintaining a compiled view of the current Governance, checklist items, and metrics
 * Scheduling the meetings, and notifying all Core Circle Members of scheduled times and locations
+
+### Mentor
+
+Purpose: 
+
+Accountabilities:
 
 ## Coordination
 
