@@ -24,7 +24,6 @@ Start in networks with good soft governance first?
 * [Directorship](./#directorship) – Cem Dagdelen
 * [Expertise centre](expertise-center.md) – Daniel Shavit
 * [Funding & Grants manager](./#funding-and-grants-manager) – Theodor Beutel
-* [Communications](daos.md) – Max Semenchuk
 * Mentor – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
 * Facilitator – rotating
 * Secretary – rotating
@@ -41,7 +40,7 @@ Responsibilities:
 
 ### Expertise centre
 
-Purpose: ...
+Purpose: organize work around consulting
 
 Responsibilities:
 
@@ -49,11 +48,9 @@ Responsibilities:
 
 ### Communications
 
-### Purpose: ...
+Purpose: ...
 
 Responsibilities:
-
-...
 
 ### Funding & Grants manager
 
@@ -66,6 +63,23 @@ Responsibilities:
 * Maintenance of a dynamic list of open grants
 * Relationships with funding partners
 * Assisting the projects for investment readiness \(deck preparation etc\)
+
+### Facilitator
+
+Purpose: maintain governance and operational practices
+
+Accountabilities:
+
+* Facilitating the meetings
+
+### Secretary
+
+Purpose: steward and stabilize the formal records and record-keeping process.
+
+Accountabilities:
+
+* Capturing and publishing the outputs of the meetings, and maintaining a compiled view of the current Governance, checklist items, and metrics
+* Scheduling the meetings, and notifying all Core Circle Members of scheduled times and locations
 
 ## Coordination
 
