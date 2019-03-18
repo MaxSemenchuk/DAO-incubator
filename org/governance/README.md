@@ -19,7 +19,7 @@ Start in networks with good soft governance first?
 
 ## Roles
 
-* [Directorship](./#directorship) – Cem Dagdelen
+* [Benevolent Directatorship](./#directorship) – Cem Dagdelen
 * [Expertise centre](expertise-center.md) – Daniel Shavit
 * [Funding & Grants manager](./#funding-and-grants-manager) – Theodor Beutel
 * [Communications](./#communications) – Max Semenchuk
@@ -27,7 +27,7 @@ Start in networks with good soft governance first?
 * [Facilitator](./#facilitator) – rotating
 * [Secretary](./#facilitator) – rotating
 
-### Directorship
+### Benevolent Directatorship
 
 Purpose: Ensuring delivering the org purpose
 
