@@ -81,9 +81,13 @@ Accountabilities:
 
 ### Mentor
 
-Purpose: 
+Purpose: support DAO Development
 
 Accountabilities:
+
+* Attend Expertise calls
+* Provide comments on DAO documents
+* Provide personal consultations
 
 ## Coordination
 
