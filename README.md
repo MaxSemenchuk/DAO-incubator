@@ -1,4 +1,4 @@
-# DAOincubator
+# DAO Incubator
 
 ## About
 
