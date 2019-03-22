@@ -103,7 +103,13 @@ Accountabilities:
 * Provide comments on DAO documents 
 * Provide personal consultations
 
-## Coordination
+## Policies
+
+### Biz model
+
+First bunch of incubatees are incubated for free, expenses are covered by grants. Can be paying clients \(not incubatees\).
+
+### Coordination
 
 * Weekly call for coordination \(time TBA\) + [Meeting minutes](../tacticals/)
 * [Wiki / Repository](https://github.com/MaxSemenchuk/DAO-incubator)
