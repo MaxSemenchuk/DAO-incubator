@@ -34,7 +34,7 @@ Responsibilities:
 
 * prioritization
 * resource allocation
-* assignment to roles.
+* matchmaking people to roles
 
 ### Expertise centre
 
