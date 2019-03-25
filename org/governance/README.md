@@ -19,7 +19,7 @@ Start in networks with good soft governance first?
 ## Roles
 
 * [Directorship](./#directorship) – Cem Dagdelen
-* [Expertise centre](expertise-center.md) – Daniel Shavit
+* [Expertise centre](expertise-center.md) – Daniel Shavit \(research focus\)
 * [Funding & Grants manager](./#funding-and-grants-manager) – Theodor Beutel
 * [Communications](./#communications) – Max Semenchuk
 * [Mentor](./#mentor) – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
@@ -57,7 +57,7 @@ Responsibilities:
 * Community management of the DAOincubator Public Channel
 * Relaying opportunities from the Public Channel to the WG
 * Collecting and announcing the agenda items for the calls
-* Maintaining and guiding the communication tools: Discord, Telegram, Gitbook, Trello etc
+* Maintaining and guiding the communication tools: Discord, Telegram, Gitbook, Trello, Twitter etc
 * Training the group in efficient methods & soft communication best practices
 
 ### Funding & Grants manager
