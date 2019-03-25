@@ -1,4 +1,4 @@
-# Governance xx.03.2019
+# Core Call 25.03.2019
 
 ## Max / Incubatee Success Manager Role
 
@@ -11,7 +11,7 @@ Accountabilities:
 * Develop repeatable processes of incubation
 * Facilitate the Expertise Call
 
-## Max / Introduce and change Policies and Roles only through IDM Process
+## Max / Introduce and change Policies and Roles only through IDM Process + posted in wiki
 
 * [https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc](https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc)
 
