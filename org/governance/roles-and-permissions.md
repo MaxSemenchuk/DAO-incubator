@@ -31,6 +31,7 @@ Responsibilities:
 * identify the needs of the projects being incubated
 * support incubatees in various areas
 * guiding the community around the respective specializations
+* oversee the matching of a specific mentor to each incubatee/ client
 
 ...
 
@@ -87,5 +88,7 @@ Accountabilities:
 
 * Attend Expertise calls 
 * Provide comments on DAO documents 
-* Provide personal consultations
+* Provide personal consultations to assigned incubatees/ clients
+
+
 
