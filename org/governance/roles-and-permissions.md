@@ -93,3 +93,17 @@ Accountabilities:
 
 
 
+## Circle roles
+
+### Governance circle
+
+### Legal circle
+
+### Developer circle
+
+### Ecosystem circle
+
+### Community circle
+
+### Research circle
+
