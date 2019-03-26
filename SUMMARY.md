@@ -23,6 +23,6 @@
   * [Core Call 21.03.2019](org/tacticals/core-25.03.2019-1.md)
   * [Core Call 25.03.2019](org/tacticals/core-25.03.2019.md)
   * [WG Call 25.03.2019](org/tacticals/wg-call-25.03.2019.md)
-  * [WG Call xx.03.2019](org/tacticals/wg-call-xx.03.2019.md)
+  * [WG Call 01.04.2019](org/tacticals/wg-call-xx.03.2019.md)
   * [Untitled](org/tacticals/untitled.md)
 
