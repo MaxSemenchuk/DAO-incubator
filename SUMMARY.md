@@ -10,6 +10,7 @@
   * [Communications](org/governance/daos.md)
   * [Expertise Center](org/governance/expertise-center.md)
   * [Funding](org/governance/funding.md)
+  * [Roles and Permissions](org/governance/roles-and-permissions.md)
 * [Projects / Activities / Groups](org/projects/README.md)
   * [Marketing materials](org/projects/marketing-materials.md)
   * [Workshop at EthCC](org/projects/workshop-at-ethcc.md)
