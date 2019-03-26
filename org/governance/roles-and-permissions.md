@@ -58,6 +58,7 @@ Responsibilities:
 * Maintenance of a dynamic list of open grants
 * Relationships with funding partners
 * Assisting the projects for investment readiness \(deck preparation etc\)
+* Support mentors in tracking down funding for incubatees in their "care"
 
 ### Facilitator
 
