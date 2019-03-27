@@ -97,13 +97,25 @@ Accountabilities:
 
 ### Governance circle
 
+Leader: 
+
 ### Legal circle
+
+Leader: 
 
 ### Developer circle
 
+Leader: 
+
 ### Ecosystem circle
+
+Leader: 
 
 ### Community circle
 
+Leader: 
+
 ### Research circle
+
+Leader: 
 
