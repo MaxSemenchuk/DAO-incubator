@@ -28,5 +28,5 @@
 
 ## Projects
 
-* [DAO self-help group](projects/dao-self-help-group.md)
+* [DAO Crash Test](projects/dao-crash-test.md)
 
