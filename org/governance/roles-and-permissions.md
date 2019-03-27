@@ -8,9 +8,9 @@
 * [Expertise centre](expertise-center.md) – Daniel Shavit \(research focus\)
 * [Funding & Grants manager](./#funding-and-grants-manager) – Theodor Beutel
 * [Communications](./#communications) – Max Semenchuk
+* [Facilitator](./#facilitator) – Cem Dagdelen
+* [Secretary](./#facilitator) – Adam Reese
 * [Mentor](./#mentor) – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
-* [Facilitator](./#facilitator) – rotating
-* [Secretary](./#facilitator) – rotating \(currently Adam Reese\)
 
 ### Directorship
 
