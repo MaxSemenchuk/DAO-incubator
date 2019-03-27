@@ -2,7 +2,7 @@
 
 * [DAO Incubator](README.md)
 * [Products](products.md)
-* [DAOs](daos.md)
+* [DAOs list](daos.md)
 
 ## Org
 
@@ -25,5 +25,8 @@
   * [Core Call 25.03.2019](org/tacticals/core-25.03.2019.md)
   * [WG Call 25.03.2019](org/tacticals/wg-call-25.03.2019.md)
   * [WG Call 01.04.2019](org/tacticals/wg-call-xx.03.2019.md)
-  * [Untitled](org/tacticals/untitled.md)
+
+## Projects
+
+* [DAO self-help group](projects/dao-self-help-group.md)
 
