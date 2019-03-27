@@ -1,4 +1,4 @@
-# WG Call 01.04.2019
+# Core Call 01.04.2019
 
 ## Finding a regular time for this call
 

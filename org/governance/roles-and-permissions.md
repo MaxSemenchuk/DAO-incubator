@@ -105,7 +105,7 @@ Leader:
 
 ### Developer circle
 
-Leader: 
+Leader: Cory 
 
 ### Ecosystem circle
 
