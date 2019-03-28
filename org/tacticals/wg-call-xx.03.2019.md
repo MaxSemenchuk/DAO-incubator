@@ -10,6 +10,8 @@
 
 ## Discuss Aragon voting parameters + do we consider Aragon votes to be "binding"?
 
+If not, can we define a procedure for passing "binding resolutions"?
+
 ## Should communities circle or communications lead be in charge of social media?  
 
 There is some ambiguity around this in our documentation
