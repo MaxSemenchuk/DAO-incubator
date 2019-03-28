@@ -1,8 +1,13 @@
 # Table of contents
 
 * [DAO Incubator](README.md)
-* [Products](products.md)
-* [DAOs list](daos.md)
+* [DAOs list](dao/README.md)
+  * [Trojan DAO](dao/trojan-dao.md)
+  * [Nexus Mutual](dao/nexus-mutual.md)
+  * [TheTradingHall](dao/thetradinghall.md)
+  * [Video DAO](dao/video-dao.md)
+  * [NowHerePlastik](dao/nowhereplastik.md)
+* [Mentors](mentors.md)
 
 ## Org
 

@@ -21,7 +21,7 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 * [Presentation](https://docs.google.com/presentation/d/1fSwhns7Fj1lQumvBNCGsDtobj8q9VBEbjIm6tqs84bg/edit#slide=id.p)
 * [Calendar](https://calendar.google.com/calendar/embed?src=mcgl48g41jnkbnm9kq87o9s9i8%40group.calendar.google.com&ctz=Europe%2FKiev) \(working group call etc\)
 * [Strategy & Governance](org/governance/)
-* [DAO list](daos.md)
+* [DAO list](dao/)
 
 ## Partners
 

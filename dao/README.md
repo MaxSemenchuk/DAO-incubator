@@ -1,12 +1,14 @@
 # DAOs list
 
-### Trojan DAO
+## Talking to
 
-A DAO initiative aimed at the reformation of local art value chains based in Athens, Greece.
+* [Trojan DAO](trojan-dao.md)
+* [Nexus Mutual](nexus-mutual.md)
+* [TheTradingHall](thetradinghall.md)
+* [Video DAO](video-dao.md)
+* [NowHerePlastik](nowhereplastik.md)
 
-Team: James S, Adam R, Cem F
-
-## Suspects
+## Other Suspects
 
 ### Pando Network
 
@@ -26,7 +28,7 @@ A peer review journal published and run by a DAO
 
 Team Daniel S
 
-Others
+### Ideas
 
 * New Commons
 * DAO publisher
@@ -34,10 +36,7 @@ Others
 * DAO defense protocol
 * OPV / fluid mechanics
 * simCAD\*\*
-* Pando
-* Trojan DAO
 * DAO Ontology: Fuzzy Logic
-* Media DAO / Tennagraph 2.0
 * The Sphere w ECSA
 * Bankrupcy DAO
 * stock photography dao
