@@ -1,6 +1,6 @@
 # DAOs list
 
-## Talking to
+## Pipeline
 
 * [Trojan DAO](trojan-dao.md)
 * [Nexus Mutual](nexus-mutual.md)
