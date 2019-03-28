@@ -10,6 +10,8 @@ Is everyone cool with bi-weekly, alternating with WG calls?
 
 ## Walk through onboarding/ offboarding processes for group to critique
 
+Pedro to lead this part of the discussion
+
 ## Discuss Aragon voting parameters + do we consider Aragon votes to be "binding"?
 
 If not, can we define a procedure for passing "binding resolutions"?
