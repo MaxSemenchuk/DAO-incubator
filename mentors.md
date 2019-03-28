@@ -1,22 +1,26 @@
 # Mentors
 
-Max Semenchuk
+## Max Semenchuk
 
-Daniel Shavit
+Dgov foundation, 4IRE labs  
+Expertise: Economy & Incentive design  
+Twitter: [@maxsemenchuk](https://twitter.com/maxsemenchuk)
 
-Beth McCarthy
+## Daniel Shavit
 
-Jordan Ellis
+## Beth McCarthy
 
-Haythem Sellami
+## Jordan Ellis
 
-James Duncan
+## Haythem Sellami
 
-Philippe Honigman
+## James Duncan
 
-Theodor Beutel
+## Philippe Honigman
 
-Cory Dickson
+## Theodor Beutel
 
-Anja Blaj
+## Cory Dickson
+
+## Anja Blaj
 
