@@ -1,8 +1,10 @@
 # Core Call 01.04.2019
 
-## Finding a regular time for this call
+## Discussing the regular time for this call
 
+Will this time work for everybody after Europe's time change?
 
+Is everyone cool with bi-weekly, alternating with WG calls?
 
 ## Beth's logo designer connection \(Yiying Lu\)
 
