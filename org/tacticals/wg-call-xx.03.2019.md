@@ -1,5 +1,9 @@
 # Core Call 01.04.2019
 
+## Resorting of the order of discussion points
+
+A lightning round in case anyone is worried about an important topic getting missed because it's too low in the agenda
+
 ## Discussing the regular time for this call
 
 Will this time work for everybody after Europe's time change?
@@ -22,7 +26,7 @@ There is some ambiguity around this in our documentation
 
 ## Mention: sprint on website
 
-## What are our short/medium term priorities?
+## What are our short/medium term priorities?\*\*
 
 Proposed priorities:
 
