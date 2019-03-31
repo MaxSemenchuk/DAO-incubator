@@ -34,11 +34,11 @@ Is a media strategy a valuable thing to have right now?  If not, at what point w
 
 Proposed priorities:
 
-1 decision making Loomio, Aragon, Gitbook...
+1 decision making - Loomio, Aragon, Gitbook...
 
-2 onboarding Daniel and Cem's candidates
+2 onboarding - Daniel and Cem's candidates
 
-3 roadmap to wrap up what has been done so far and what's in front of us in regards to our goals and objectives
+3 roadmap - to wrap up what has been done so far and what's in front of us X our goals and objectives
 
 ## End of meeting: Announcements
 
