@@ -4,6 +4,8 @@
 
 A lightning round in case anyone is worried about an important topic getting missed because it's too low in the agenda
 
+At 10 minutes to the end of the call, we'll skip from wherever we are to the asterisked agenda item\*\* 
+
 ## Discussing the regular time for this call
 
 Will this time work for everybody after Europe's time change?
