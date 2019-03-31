@@ -28,6 +28,8 @@ If not, can we define a procedure for passing "binding resolutions"?
 
 There is some ambiguity around this in our documentation
 
+Is a media strategy a valuable thing to have right now?  If not, at what point will it be?
+
 ## What are our short/medium term priorities?\*\*
 
 Proposed priorities:
