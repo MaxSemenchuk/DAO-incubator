@@ -24,8 +24,6 @@ If not, can we define a procedure for passing "binding resolutions"?
 
 There is some ambiguity around this in our documentation
 
-## Mention: sprint on website
-
 ## What are our short/medium term priorities?\*\*
 
 Proposed priorities:
@@ -37,4 +35,8 @@ Proposed priorities:
 3 roadmap to wrap up what has been done so far and what's in front of us in regards to our goals and objectives
 
 ## End of meeting: Announcements
+
+### Mention: sprint on website
+
+## 
 
