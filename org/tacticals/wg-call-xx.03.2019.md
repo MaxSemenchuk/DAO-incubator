@@ -16,20 +16,21 @@ Pedro to lead this part of the discussion
 
 If not, can we define a procedure for passing "binding resolutions"?
 
-## Should communities circle or communications lead be in charge of social media?  
+## Should communities circle or communications lead be in charge of social media?
 
 There is some ambiguity around this in our documentation
 
 ## Mention: sprint on website
 
 ## What are our short/medium term priorities?
+
 Proposed priorities:
 
-1 decision making
-Loomio, Aragon, Gitbook...
+1 decision making Loomio, Aragon, Gitbook...
 
-2 onboarding 
-Daniel and Cem's candidates
+2 onboarding Daniel and Cem's candidates
 
-3 roadmap 
-to wrap up what has been done so far and what's in front of us in regards to our goals and objectives
+3 roadmap to wrap up what has been done so far and what's in front of us in regards to our goals and objectives
+
+## End of meeting: Announcements
+
