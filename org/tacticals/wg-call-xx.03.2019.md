@@ -6,7 +6,7 @@ A lightning round in case anyone is worried about an important topic getting mis
 
 Add announcements and discussion points that are not listed
 
-At 10 minutes to the end of the call, we'll skip from wherever we are to the asterisked agenda item\*\* 
+At 10 minutes to the end of the call, we'll skip from wherever we are to the asterisked agenda item\*\*
 
 ## Discussing the regular time for this call
 
@@ -24,11 +24,15 @@ Pedro to lead this part of the discussion
 
 If not, can we define a procedure for passing "binding resolutions"?
 
+## Joining and leaving circles + documenting membership: define a procedure
+
+Theo and Jordan want to leave the community circle due to bandwidth restraints.  Should each circle have its own processes spelled out for bringing on members, tracking current members, and losing members? Or is this something want to define across all of DAOincubator?
+
 ## Should communities circle or communications lead be in charge of social media?
 
 There is some ambiguity around this in our documentation
 
-Is a media strategy a valuable thing to have right now?  If not, at what point will it be?
+Is a media strategy a valuable thing to have right now? If not, at what point will it be?
 
 ## What are our short/medium term priorities?\*\*
 
@@ -43,6 +47,4 @@ Proposed priorities:
 ## End of meeting: Announcements
 
 ### Mention: sprint on website
-
-## 
 
