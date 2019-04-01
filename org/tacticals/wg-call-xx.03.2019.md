@@ -146,5 +146,5 @@ Dani: let's have phase one finished by next week/ the next cool.
 
 ### Adam/ Pedro: Mention: sprint on website
 
-Pedro: please also look through the unformal gitbook and write pull requests for anything at all, give it some love.
+Pedro: please also look through the informal gitbook and write pull requests for anything at all, give it some love.
 
