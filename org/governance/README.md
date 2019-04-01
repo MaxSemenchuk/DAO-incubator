@@ -18,6 +18,10 @@ Start in networks with good soft governance first?
 
 ## Policies
 
+### Decision Making
+
+Decision are made on Loomio group \([call 01.04](https://dao-incubator.gitbook.io/wiki/org/tacticals/wg-call-xx.03.2019)\).
+
 ### Biz model
 
 First bunch of incubatees are incubated for free, expenses are covered by grants. Can be paying clients \(not incubatees\).
