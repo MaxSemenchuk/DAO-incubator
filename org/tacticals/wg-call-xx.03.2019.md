@@ -34,6 +34,14 @@ Beth: I want to encourage everyone's ideas, I can't help with it but look forwar
 
 ## Max / Investing in DAOs webinar/panel
 
+Almost all incubatees who have applied have funding requests.  Maybe we can connect with crypto vcs, crypto guys???.  I've seen VCs starting to do presentations around DAOs, talking about governance as an investment topic, they all love makerdao.  If we have fresh incubatees looking for funding, we could arrange a webinar roundtable where VCs disuss "investing in DAOs" to give information to people in  the space making daos.  How to engage VCs, what to tell them, etc.  Interested in seeing this happen, helping?
+
+Pedro: I could lend a hand on documenting but otherwise have my plate full.  
+
+Beth: Just a general statement, there's a lot coming together at the same time for everyone involved in this group,  so working autonomously on our  own things hwile  supporting each other.  People not helping =/= thinking the idea isn't cool.  Keep these coming 
+
+Dani: Webinar idea is great.  We should have the deck for ourselves about DAOfunding and DAOinc.  This  might require the state of  the daos doc to be done and then discuss how VCs can be helped by daos.  Cem has been working on this too
+
 ## Adam/ Discussing the regular time for this call
 
 Will this time work for everybody after Europe's time change?
