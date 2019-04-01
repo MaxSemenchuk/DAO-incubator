@@ -46,6 +46,8 @@ Proposed priorities:
 
 ## Max / DAO Crash Test info
 
+## Max / Investing in DAOs webinar/panel
+
 ## End of meeting: Announcements
 
 ### Mention: sprint on website
