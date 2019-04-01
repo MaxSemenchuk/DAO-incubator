@@ -22,6 +22,16 @@ Beth: had the computational law and blockchain fest, did an open dao workshop
 
 ## Max / DAO Crash Test info
 
+I want to share info and get a quick reaction round.  Jordan proposed something based on trojan feedback.  We were unclear what exact value wewanted to provide but it was a good discussion.  We could do this call on a regular basis with DAOinc newcomers.  We haven't followed up but I may like to lead such a project.  I've been thinking about a format called the retail descent??? basically, there are a few teams participating, a few members a piece, and each group has an idea they want to discuss, a concept, a dao,  etc., so they talk to the different groups and discuss strengths and wekanesses with each idea.  There are specific times where a delegate gets negative feedback, then goes through rounds and refines the ideas.  It's a useful technique for fleshing out details.  It's a little complicated to do online but could be useful.  I'll try to do the first project like that in the coming months, try to find someone help me facilitate, it could be a monthly occurrence if possible.  
+
+James: summarize proposal briefly?
+
+Max: I have this idea for a self help group, so anyone interested in doing that  can join the call and share feedback with each other using this game format.  More details to come
+
+Pedro: great experiment, let's do it.
+
+Beth: I want to encourage everyone's ideas, I can't help with it but look forward to checking in when I can  
+
 ## Max / Investing in DAOs webinar/panel
 
 ## Adam/ Discussing the regular time for this call
