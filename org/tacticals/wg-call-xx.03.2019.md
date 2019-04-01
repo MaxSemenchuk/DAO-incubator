@@ -38,8 +38,6 @@ There is some ambiguity around this in our documentation
 
 Is a media strategy a valuable thing to have right now? If not, at what point will it be?
 
-## 
-
 ## Adam + Pedro / What are our short/medium term priorities?\*\*
 
 Proposed priorities:
