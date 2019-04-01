@@ -8,6 +8,18 @@ A lightning round in case anyone is worried about an important topic getting mis
 
 Add announcements and discussion points that are not listed
 
+## This week's accomplishments
+
+Max: working on something to provide value for incubatees, I call it DAO crash test.  I'll describe the project later.  Had some convos on governance.  It's complicated, so I may just leave it as is.
+
+Dani: workshop and computational law and bc fest in new york.  People from in and out of the space.  Rinkeby aragon dao is almost up and running.  Check if your name is not there so we can start dogfooding trhough that dao.  
+
+pedro: worked on a ton of stuff, mostly in ... the gitbook including a proposal on a framework for decision making, assessment signaling, onboarding assets, code of conduct, offboarding, proposal for a roadmap, something on the site as well.  It's a lot and I think I'll keep myself to the points that I  listed in the tactical meetings.  
+
+James Duncan: I focused on getting this EU grant out this week  and ... refining documentation and roadmap for applying to fundings.  
+
+Beth: had the computational law and blockchain fest, did an open dao workshop
+
 ## Max / DAO Crash Test info
 
 ## Max / Investing in DAOs webinar/panel
@@ -19,6 +31,10 @@ Will this time work for everybody after Europe's time change?
 Is everyone cool with bi-monthly, alternating with WG calls?
 
 ## Beth's logo designer connection \(Yiying Lu\)
+
+## Max / DAO Crash Test info
+
+## Max / Investing in DAOs webinar/panel
 
 ## Pedro/ Walk through onboarding / offboarding processes for group to critique
 
