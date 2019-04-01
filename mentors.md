@@ -61,5 +61,6 @@ Twitter: [@anjablaj](https://twitter.com/AnjaBlaj)
 
 ## Pedro Parrachia
 
-Rhizom, Economic Space Agency, Genesis DAO (DAOstack), Faircoin node (past), Blockchain Research Network, DAOincubator  
+Rhizom, Economic Space Agency, Genesis DAO \(DAOstack\), Faircoin node \(past\), Blockchain Research Network, DAOincubator  
 Expertise: Blockchain-based Research & Development, Decentralized Governance, Quality Assurance & Accountability, Stacksmithing
+
