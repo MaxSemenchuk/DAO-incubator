@@ -44,7 +44,7 @@ Proposed priorities:
 
 3 roadmap - to wrap up what has been done so far and what's in front of us X our goals and objectives
 
-## Max / Rules of accepting and the problem that led to it
+## Max / DAO Crash Test info
 
 ## End of meeting: Announcements
 
