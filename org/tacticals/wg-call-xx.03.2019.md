@@ -8,6 +8,10 @@ A lightning round in case anyone is worried about an important topic getting mis
 
 Add announcements and discussion points that are not listed
 
+## Max / DAO Crash Test info
+
+## Max / Investing in DAOs webinar/panel
+
 ## Adam/ Discussing the regular time for this call
 
 Will this time work for everybody after Europe's time change?
@@ -34,9 +38,7 @@ There is some ambiguity around this in our documentation
 
 Is a media strategy a valuable thing to have right now? If not, at what point will it be?
 
-## Max / DAO Crash Test info
-
-## Max / Investing in DAOs webinar/panel
+## 
 
 ## Adam + Pedro / What are our short/medium term priorities?\*\*
 
