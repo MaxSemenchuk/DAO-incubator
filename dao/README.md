@@ -7,8 +7,11 @@
 * [TheTradingHall](thetradinghall.md)
 * [Video DAO](video-dao.md)
 * [NowHerePlastik](nowhereplastik.md)
+* [Bundesblock DAO](bundesblock-dao.md)
+* [Kleros](kleros.md)
+* [SmartMachine](smartmachine.md)
 
-[Apply here &gt;](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)
+[**Apply here &gt;**](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)\*\*\*\*
 
 ## Other Suspects
 

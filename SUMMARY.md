@@ -7,6 +7,9 @@
   * [TheTradingHall](dao/thetradinghall.md)
   * [Video DAO](dao/video-dao.md)
   * [NowHerePlastik](dao/nowhereplastik.md)
+  * [Bundesblock DAO](dao/bundesblock-dao.md)
+  * [Kleros](dao/kleros.md)
+  * [SmartMachine](dao/smartmachine.md)
 * [Mentors](mentors.md)
 
 ## Org
