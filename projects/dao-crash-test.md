@@ -2,6 +2,8 @@
 
 Purpose: test and enhance DAO concepts, mechanics and ideas.
 
+[**&gt; Registration**](https://docs.google.com/forms/d/e/1FAIpQLScTdgDAFykFMhoPj6vwYSKlt-EQQNGERtkKEG0llNI7BT1ndQ/viewform)\*\*\*\*
+
 ## Format
 
 Duration: 60-90 mins call, based on the [CE Ritual Dissent](https://cognitive-edge.com/methods/ritual-dissent/)  
