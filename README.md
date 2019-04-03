@@ -25,7 +25,7 @@ Our model requires us to use cutting edge tools for decentralized governance, fu
 
 ## Partners
 
-* Greater than
+* [Greaterthan](http://greaterthan.works)
 * Bushwick Generator
 * DGOV Foundation
 * Tribute
