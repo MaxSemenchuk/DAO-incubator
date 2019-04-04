@@ -10,6 +10,7 @@
   * [Bundesblock DAO](dao/bundesblock-dao.md)
   * [Kleros](dao/kleros.md)
   * [SmartMachine](dao/smartmachine.md)
+  * [Innovation Ç](dao/innovation-c.md)
 * [Mentors](mentors.md)
 
 ## Org
