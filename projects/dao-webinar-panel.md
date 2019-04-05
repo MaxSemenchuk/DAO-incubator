@@ -1,4 +1,4 @@
-# DAO Webinar / Panel
+# DAO Webinars / Panels
 
 Context: 
 

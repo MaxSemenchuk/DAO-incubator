@@ -7,6 +7,8 @@ Our purpose is to create more successful DAO pilots, through research, experimen
 ### Goals 2019 / Responsible
 
 1. Satisfying [DAOs](../../dao/) Needs – [Mentors](./#mentor)
+   1. [DAO Crash Test](../../projects/dao-crash-test.md)
+   2. [Webinars by request](../../projects/dao-webinar-panel.md)
 2. Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
 3. Establishing relationships with the ecosystem – [Communications](./#communications)
 4. Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
