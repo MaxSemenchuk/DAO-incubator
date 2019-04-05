@@ -6,11 +6,11 @@ Our purpose is to create more successful DAO pilots, through research, experimen
 
 ### Goals 2019 / Responsible
 
-* Satisfying Trojan DAO needs / Mentor DAOs – [Mentors](./#mentor)
-* Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
-* Establishing relationships with the ecosystem – [Communications](./#communications)
-* Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
-* Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
+1. Satisfying [DAOs](../../dao/) Needs – [Mentors](./#mentor)
+2. Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
+3. Establishing relationships with the ecosystem – [Communications](./#communications)
+4. Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
+5. Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
 
 ### Tactics
 
