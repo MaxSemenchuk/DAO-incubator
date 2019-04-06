@@ -8,6 +8,8 @@ Add announcements and discussion points that are not listed, and rearrange the o
 
 ## Max + Adam / What are our main goals as an org?  Which circles are dedicated to achieving those goals?
 
+## Beth/ Dani: takeaways from sharing DAOincubator with people outside the organization
+
 ## Adam / last week Beth mentioned bringing on part time "advisors" like her friend the logo designer.  Is this something that circle leads can take charge of?
 
 Or should we have a formalized process for taking on advisors?
