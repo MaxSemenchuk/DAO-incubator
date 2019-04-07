@@ -26,3 +26,7 @@ Cem also made a trello card for creating a list of all current advisors
 
 Great basis for communications materials.  Every circle lead and major role at DAOinc should contribute on a monthly basis.
 
+### New trello card for defining the  orientation milestones/ procedure
+
+i.e. all the steps someone must go through to be appropriately up to speed
+
