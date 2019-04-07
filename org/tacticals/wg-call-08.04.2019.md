@@ -10,6 +10,8 @@ Add announcements and discussion points that are not listed, and rearrange the o
 
 Can we define a hierarchy of goals in terms of a timeline?  Where do we want to be in a month, 6 months, a year?
 
+How can the communications strategy be tailored to support our goals, now and later?
+
 ## Beth/ Dani: takeaways from sharing DAOincubator with people outside the organization
 
 ## Adam / last week Beth mentioned bringing on part time "advisors" like her friend the logo designer.  Is this something that circle leads can take charge of?
