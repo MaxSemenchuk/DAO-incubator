@@ -14,7 +14,7 @@ Can we define a hierarchy of goals in terms of a timeline?  Where do we want to 
 
 ## Adam / last week Beth mentioned bringing on part time "advisors" like her friend the logo designer.  Is this something that circle leads can take charge of?
 
-Or should we have a formalized process for taking on advisors?
+Or should we have a formalized process for taking on advisors? Perhaps based on the working group onboarding process but less rigorous?
 
 Cem also made a trello card for creating a list of all current advisors
 
