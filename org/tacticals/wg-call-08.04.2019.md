@@ -16,6 +16,8 @@ Can we define a hierarchy of goals in terms of a timeline?  Where do we want to 
 
 Or should we have a formalized process for taking on advisors?
 
+Cem also made a trello card for creating a list of all current advisors
+
 ## Announcements
 
 ### Monthly DAOincubator reports
