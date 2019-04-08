@@ -5,6 +5,8 @@ Project updates
 * Website & Logo \(Cem\)
 * DAO Crash Test \(Max\)
 
+A heads up that we have 14 signups so far, we're trying to attract two or three professional facilitators like Pheobe or Francesco from DAOstack.  They will hopefully help me improve the process.  Looking at 4/23 as most  possible date.  
+
 ## Adam/ Resort the order of discussion points
 
 Meeting format: names indicate who will lead that section of the discussion. At 10 minutes to the end of the call, we'll skip from wherever we are to the asterisked agenda item\*\* for a lightning round
