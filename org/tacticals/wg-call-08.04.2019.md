@@ -43,3 +43,5 @@ i.e. all the steps someone must go through to be appropriately up to speed
 
 ### Theo or James D / Grants and Funding update
 
+### Cem / research circle??? // call for papers for governance doc
+
