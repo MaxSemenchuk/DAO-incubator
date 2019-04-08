@@ -1,5 +1,10 @@
 # WG Call 08.04.2019
 
+Project updates
+
+* Website & Logo \(Cem\)
+* DAO Crash Test \(Max\)
+
 ## Adam/ Resort the order of discussion points
 
 Meeting format: names indicate who will lead that section of the discussion.  At 10 minutes to the end of the call, we'll skip from wherever we are to the asterisked agenda item\*\* for a lightning round 
