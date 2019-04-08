@@ -25,7 +25,9 @@ Or should we have a formalized process for taking on advisors? Perhaps based on 
 
 Cem also made a trello card for creating a list of all current advisors
 
-## Max + PhilH / Who manages discord and further issues with it
+## James S / Communitism workshops
+
+## \*\*\*Max + PhilH / Who manages discord and further issues with it
 
 Phil will provide a status
 
