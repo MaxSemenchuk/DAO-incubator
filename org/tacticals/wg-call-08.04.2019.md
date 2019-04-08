@@ -41,5 +41,5 @@ Great basis for communications materials. Every circle lead and major role at DA
 
 i.e. all the steps someone must go through to be appropriately up to speed
 
-### Cem or James D / Grants and Funding update
+### Theo or James D / Grants and Funding update
 
