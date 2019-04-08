@@ -113,7 +113,7 @@ Leader:
 
 ### Community circle
 
-Leader: 
+Leader: Adam
 
 ### Research circle
 
