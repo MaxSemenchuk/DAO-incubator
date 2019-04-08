@@ -4,10 +4,9 @@ Lily intro – designer and friend of CEM
 
 Project updates
 
-A heads up that we have 14 signups so far, we're trying to attract two or three professional facilitators like Pheobe or Francesco from DAOstack.  They will hopefully help me improve the process.  Looking at 4/23 as most  possible date.  
+Website & Logo \(Cem\) – ?
 
-* Website & Logo \(Cem\) – ?
-* DAO Crash Test \(Max\) – 14 signups, attracting the facis, probably 23rd
+* DAO Crash Test \(Max\) – 14 signups, attracting the facis, probably 23rd, we're trying to attract two or three professional facilitators like Pheobe or Francesco from DAOstack.
 
 ## Adam/ Resort the order of discussion points
 
