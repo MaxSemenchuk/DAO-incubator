@@ -11,6 +11,7 @@
 * [Facilitator](./#facilitator) – Cem Dagdelen
 * [Secretary](./#facilitator) – Adam Reese
 * [Mentor](./#mentor) – [Multiple](https://docs.google.com/spreadsheets/d/15gDG1Sq6-LPgYMXveWBUXEtKahOMwhlcYC4sJ40iG_s/edit#gid=0)
+* Discord admins -- Phil, who else?
 
 ### Directorship
 
