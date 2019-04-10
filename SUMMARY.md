@@ -11,6 +11,7 @@
   * [Kleros](dao/kleros.md)
   * [SmartMachine](dao/smartmachine.md)
   * [Innovation Ç](dao/innovation-c.md)
+  * [Betoken](dao/betoken.md)
 * [Mentors](mentors.md)
 
 ## Org
