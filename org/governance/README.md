@@ -1,22 +1,31 @@
 # Strategy & Governance
 
-## Strategy
-
 Our purpose is to create more successful DAO pilots, through research, experiments and incubation.
 
-### Goals 2019 / Responsible
+## Goals 2019 / Responsible
 
-1. Satisfying [DAOs](../../dao/) Needs – [Mentors](./#mentor)
-   1. [DAO Crash Test](../../projects/dao-crash-test.md)
-   2. [Webinars by request](../../projects/dao-webinar-panel.md)
-2. Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
-3. Establishing relationships with the ecosystem – [Communications](./#communications)
-4. Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
-5. Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
+### 1. Helping [DAOs](../../dao/) – [Mentors](../../mentors.md)
 
-### Tactics
+* [Develop the DAO Crash Test Workshops](../../projects/dao-crash-test.md)
+* Help with funding?
+  * Understand who can fund them?
+* Research products / approaches of other incubators
+  * Talk to Nathan Schneider / [Start Coop](https://start.coop/)
+  * Talk to [https://www.incubator.coop/](https://www.incubator.coop/)
+* Educate
+  * Start in networks with good soft governance first?
+  * [Webinars/AMA by request](../../projects/dao-webinar-panel.md)
 
-Start in networks with good soft governance first?
+### 2. Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
+
+### 3. Establishing relationships with the ecosystem – [Communications](./#communications)
+
+* Develop monthly reports
+* Publish updates on twitter and telegram group
+
+### 4. Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
+
+### 5. Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
 
 ## Policies
 
