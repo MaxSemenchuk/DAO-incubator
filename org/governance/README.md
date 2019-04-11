@@ -10,8 +10,9 @@ Our purpose is to create more successful DAO pilots, through research, experimen
   * Talk to Nathan Schneider / [Start Coop](https://start.coop/)
   * Talk to [https://www.incubator.coop/](https://www.incubator.coop/)
 * [Develop the DAO Crash Test Workshop](../../projects/dao-crash-test.md)
-* Help with funding?
-  * Understand who can fund them?
+* Help with funding
+  * Understand who can fund them
+  * Do Demo days or smth like that
 * Educate
   * Start in networks with good soft governance first?
   * [Webinars/AMA by request](../../projects/dao-webinar-panel.md)
