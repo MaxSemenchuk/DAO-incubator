@@ -12,6 +12,7 @@
 * [SmartMachine](smartmachine.md)
 * [Innovation Ç](innovation-c.md)
 * [Betoken](betoken.md)
+* [Personal Tokens](personal-tokens.md)
 
 [**Apply here &gt;**](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)\*\*\*\*
 

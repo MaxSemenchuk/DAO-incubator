@@ -12,6 +12,7 @@
   * [SmartMachine](dao/smartmachine.md)
   * [Innovation Ç](dao/innovation-c.md)
   * [Betoken](dao/betoken.md)
+  * [Personal Tokens](dao/personal-tokens.md)
 * [Mentors](mentors.md)
 
 ## Org
