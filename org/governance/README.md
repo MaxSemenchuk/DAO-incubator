@@ -4,28 +4,28 @@ Our purpose is to create more successful DAO pilots, through research, experimen
 
 ## Goals 2019 / Responsible
 
-### 1. Helping [DAOs](../../dao/) – [Mentors](../../mentors.md)
+### 1. Help [DAOs](../../dao/) – [Mentors](../../mentors.md)
 
-* [Develop the DAO Crash Test Workshops](../../projects/dao-crash-test.md)
-* Help with funding?
-  * Understand who can fund them?
 * Research products / approaches of other incubators
   * Talk to Nathan Schneider / [Start Coop](https://start.coop/)
   * Talk to [https://www.incubator.coop/](https://www.incubator.coop/)
+* [Develop the DAO Crash Test Workshop](../../projects/dao-crash-test.md)
+* Help with funding?
+  * Understand who can fund them?
 * Educate
   * Start in networks with good soft governance first?
   * [Webinars/AMA by request](../../projects/dao-webinar-panel.md)
 
-### 2. Formation of an organizational architecture with filled roles – [Directorship](./#directorship)
+### 2. Form an organizational architecture with filled roles – [Directorship](roles-and-permissions.md#directorship)
 
-### 3. Establishing relationships with the ecosystem – [Communications](./#communications)
+### 3. Establish relationships with the ecosystem – [Communications](roles-and-permissions.md#communications)
 
 * Develop monthly reports
 * Publish updates on twitter and telegram group
 
-### 4. Launch research initiatives & start publishing – [Expertise Center](./#expertise-centre)
+### 4. Launch research initiatives & start publishing – [Expertise Center](roles-and-permissions.md#expertise-centre)
 
-### 5. Start DAOincubator PoC – [Funding & Grants manager](./#funding-and-grants-manager)
+### 5. Start DAOincubator PoC – [Funding & Grants manager](roles-and-permissions.md#funding-and-grants-manager)
 
 ## Policies
 
