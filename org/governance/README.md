@@ -40,8 +40,8 @@ First bunch of incubatees are incubated for free, expenses are covered by grants
 
 ### Coordination
 
-* Weekly call for coordination \(time TBA\) + [Meeting minutes](../tacticals/)
-* [Wiki / Repository](https://github.com/MaxSemenchuk/DAO-incubator)
+* Weekly call for coordination – Mondays 5pm CET \([Meeting minutes](../tacticals/)\)
+* [Loomio group](https://www.loomio.org/g/X5fYj0u1/daoincubator)
 * [Core Team Tasks Board](https://trello.com/b/dWWt9SUj/dao-incubator)
 * [Community Task Board](https://trello.com/b/XrAjqdlO/dao-incubator)
 * [Realtime Mindmap](https://realtimeboard.com/welcomeonboard/3U2M3hyQolAUfwf8PFIvLIksh2h3HVR2gzBZs0LGrRCYoAgTvyUB668VA5tupte7)
