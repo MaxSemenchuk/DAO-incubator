@@ -1,19 +1,32 @@
-# DAO Crash Test
+# DAO Crash Test \#1
+
+**Time:** Tue Apr 23, 5pm - 6:30pm CET  
+**Format:** Online Workshop based on the [CE Ritual Dissent](https://cognitive-edge.com/methods/ritual-dissent/)  
+**Participants:** DAO incubator [DAOs](../dao/) & [mentors](../mentors.md)
 
 Purpose: test and enhance DAO concepts, mechanics and ideas.
 
 [**&gt; Registration**](https://docs.google.com/forms/d/e/1FAIpQLScTdgDAFykFMhoPj6vwYSKlt-EQQNGERtkKEG0llNI7BT1ndQ/viewform)\*\*\*\*
 
-## Format
+## Roles
 
-Duration: 60-90 mins call, based on the [CE Ritual Dissent](https://cognitive-edge.com/methods/ritual-dissent/)  
-Participants: DAO incubator [mentors](../mentors.md) & [projects](../dao/).
+* Concept owner – whoever is core developer of the concept
+* Spokesperson – the person who'll be presenting & collecting feedback \(better be not be the concept owner\)
+* Mentors – everybody else who'll be helping to improve the idea
+
+## Preliminary
+
+We identify the 3-5 concept owners who want to improve their concepts. Concept can be anything from the DAO idea, governance mechanic, solution to concrete governance situation. 
+
+## Online Workshop
 
 ### 1. Intro & Breakdown
 
-Preliminary instructions, breaking down into teams. E.g. 3-4 teams, at least 3 people in the team. 
+Short wait for connection, welcoming word and overview of the process. Especially focus on the dissent side.
 
-Timing: 10 mins
+Concept owners are assigned for separate zoom breakout rooms. All other people are equally distributed across the rooms \(use excel?\).
+
+_Timing: 10 mins_
 
 ### 2. Initial pitching in teams, selection of the spokesperson
 
@@ -54,5 +67,5 @@ Timing: 10 mins
 5. Use Zoom for conferencing and breakout rooms
 6. Allocate faci to each room? \(4-5?\)
 
-
+### Communication Plan
 

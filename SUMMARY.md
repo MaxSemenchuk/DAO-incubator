@@ -45,6 +45,6 @@
 
 ## Projects
 
-* [DAO Crash Test](projects/dao-crash-test.md)
+* [DAO Crash Test \#1](projects/dao-crash-test.md)
 * [DAO Webinars / Panels](projects/dao-webinar-panel.md)
 
