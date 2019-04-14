@@ -49,11 +49,17 @@ _Timing: 5 mins_
 
 The spokespeople need to move to the next room. When your team spokesperson left and another arrived he will present their idea for 3 minutes, at that time a time check will be announced by the facilitator.
 
-If the group are happy to listen for more time they may do so, but from this point onwards the spokesperson can be made to stop or don the mask finished or not. They must present to silence \(the group may not comment or interact with the spokesperson in any way\) and then turn round or don the mask, using the clipboard to take notes on what hey hear. 
+If the group are happy to listen for more time they may do so, but from this point onwards the spokesperson can be made to stop or don the mask finished or not. They must present to silence \(the group may not comment or interact with the spokesperson in any way\) and then turn round or don the mask, using the clipboard to take notes on what hey hear.
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+{% hint style="info" %}
+This is how it looks in the regular offline mode. The guy in white shirt \(spokesperson\) pretends he's not there, just writing every bit of feedback
+{% endhint %}
 
 The group should then attack the ideas with full and complete vigor \(dissent\) or come up with a better idea or major improvement \(5-7 mins\).
 
-Once complete the spokesperson must not talk with the group but leave to a central area, away from the groups that are working, until all the spokespeople are complete. This is important and addition to the original method. When spokespeople talk with the group they start to explain away the criticism and thereby compromise their learning
+Once complete the spokesperson must not talk with the group but leave to a central area, away from the groups that are working, until all the spokespeople are complete. This is important and addition to the original method. When spokespeople talk with the group they start to explain away the criticism and thereby compromise their learning.
 
 {% hint style="info" %}
 Last round in the workshop goes only positive feedback and praising
