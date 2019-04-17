@@ -17,15 +17,20 @@ Creators don't like to receive negative feedback, as it demotivates. Experts don
 * Mentors – everybody else who'll be helping to improve the idea
 * Facilitator – controls time and process compliance
 
-## Preliminary
+## ToDo's
 
 We identify the 3-5 concept owners who want to improve their concepts. Concept can be anything from the DAO idea, governance mechanic, solution to concrete governance situation. 
 
-1. ~~Announce the event with rules~~
-2. ~~Collect registrations~~
-3. Identifying ideas to present 
-4. Try Zoom for conferencing and breakout rooms
-5. Send all instructions
+1. ~~Before the workshop~~
+   1. ~~Announce the event with rules~~
+   2. ~~Collect registrations~~
+   3. ~~Identifying ideas to present~~ 
+   4. Try Zoom for conferencing and breakout rooms
+   5. Send all instructions
+2. During
+   1. Ask/write outcomes from the workshop
+3. After
+   1. Publish workshop outcomes
 
 ## Online Workshop
 
