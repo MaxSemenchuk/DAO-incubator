@@ -28,7 +28,9 @@ We identify the 3-5 concept owners who want to improve their concepts. Concept c
    4. Try Zoom for conferencing and breakout rooms
    5. Send all instructions
 2. During
-   1. Ask/write outcomes from the workshop
+   1. Tell instructions and share distribution sheet
+   2. Identify facis
+   3. Ask/write outcomes from the workshop
 3. After
    1. Publish workshop outcomes
 
