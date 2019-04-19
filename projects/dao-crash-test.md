@@ -56,7 +56,7 @@ _Timing: 5 mins_
 
 The spokespeople need to move to the next room. When your team spokesperson left and another arrived he will present their idea for 3 minutes, at that time a time check will be announced by the facilitator.
 
-If the group are happy to listen for more time they may do so, but from this point onwards the spokesperson can be made to stop or don the mask finished or not. They must present to silence \(the group may not comment or interact with the spokesperson in any way\) and then turn round or don the mask, using the clipboard to take notes on what hey hear.
+If the group are happy to listen for more time they may do so, but from this point onwards the spokesperson can be made to stop or don the mask finished or not. They must present to silence \(the group may not comment or interact with the spokesperson in any way\) and then turn round or don the mask, using the clipboard to take notes on what they hear.
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
