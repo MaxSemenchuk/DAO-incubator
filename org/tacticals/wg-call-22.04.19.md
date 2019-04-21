@@ -24,7 +24,7 @@ It results in a DAO that is socially/fiscally sustainable?
 
 ### Adam on behalf of Tuna / what should be the cap for maximum simultaneous incubatees?
 
-### Adam / Replace the word "incubatee" with "cell" and/or "decentralized organism"?
+### \*\*Adam / Replace the word "incubatee" with "cell" and/or "decentralized organism"?
 
 ## Announcements
 
