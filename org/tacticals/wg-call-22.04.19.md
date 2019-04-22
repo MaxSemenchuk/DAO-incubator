@@ -28,6 +28,11 @@ It results in a DAO that is socially/fiscally sustainable?
 
 ### \*\*Adam / Replace the word "incubatee" with "cell" and/or "decentralized organism"?
 
+### PhilH / from dimensions of DAOs to case studies
+
+Starting to work on DAO case studies. I'd like to have others' feedback on the usefulness of this work for DAOincubator and possibly some help :)
+[https://docs.google.com/document/d/15O3-dXCsFKT-699KXaHH4xRNbZx8GupdUO77Yr50KOs/edit] (More information here.)
+
 ## Announcements
 
 ### 
