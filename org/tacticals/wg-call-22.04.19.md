@@ -10,6 +10,8 @@ that are not listed, and rearrange the order of topics in case anyone is worried
 
 ## Discussion
 
+### Adam / Website content
+
 ### Adam on behalf of Tuna / The journey of a project from pre-incubation to demo day and beyond, or: "the incubation process in 360"
 
 Is this design ready to be put to a vote?  Or should we leave feedback to Tuna first? [https://miro.com/app/board/o9J\_kysdxCw=/](https://miro.com/app/board/o9J_kysdxCw=/)
