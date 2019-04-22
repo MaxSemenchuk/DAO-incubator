@@ -14,7 +14,9 @@ that are not listed, and rearrange the order of topics in case anyone is worried
 
 Do we want a "partner logos" section with only 3 logos?  And other topics
 
-[https://docs.google.com/document/d/1FBYVQ-nJeyFCIPKJLOXYzxbccZF1O-P9s6Qe762oBTc/edit?usp=sharing](https://docs.google.com/document/d/1FBYVQ-nJeyFCIPKJLOXYzxbccZF1O-P9s6Qe762oBTc/edit?usp=sharing)
+{% embed url="https://docs.google.com/document/d/1FBYVQ-nJeyFCIPKJLOXYzxbccZF1O-P9s6Qe762oBTc/edit?usp=sharing" %}
+
+Cory: please fill out your bio on the form
 
 ### PhilH / from dimensions of DAOs to case studies
 
