@@ -10,7 +10,7 @@ that are not listed, and rearrange the order of topics in case anyone is worried
 
 ## Discussion
 
-### Adam / Website content
+### Adam + Pedro + Cory / Website content
 
 ### Adam on behalf of Tuna / The journey of a project from pre-incubation to demo day and beyond, or: "the incubation process in 360"
 
