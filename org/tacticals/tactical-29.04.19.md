@@ -6,3 +6,5 @@
 
 ## Max / Strategic Session
 
+by Sociocracy Impact Mapping
+
