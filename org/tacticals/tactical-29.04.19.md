@@ -62,9 +62,43 @@ Theo: OK let's have a call tomorrow before reaching out to Lukas.
 
 by Sociocracy Impact Mapping
 
+Max: If we got a million Eu tomorrow, are we clear on what we'd use them for?
 
+Theo: 4/10 clarity.  Funding HR,  funding our time to work, those are clear ways to spend it.  The rest is unclear.  
+
+Felipe: Very low, I still need to get to know everybody better.  My first contact with DAOincubator was months ago, before the vision shifted, so 1.
+
+Beth: On the one hand, there are immediate priorities like signing us all up for  realtime board.  Looking into efficiencies.  Pro accounts for things, which are currently logistical blockers.  Beyond that cost, the  challenge would be to allocate   to  each circle and then have the circles decide.  If an angel investor gave us this amount, it would  be  a  way to clarify the overlap between circles without diving into the scarcity model now -- what can we do without funding.  So to put  a number  on it, 10 for those  basic things, 2 for the rest.  It would 
+
+Adam:  2 or 3, for the same reasons as Beth.
+
+Dani: around 8, buy BTC.  Kidding.  I agree with Beth.  Pay running expenses.  It's a bit inappropriate to go further before launching projects.  But we  could do some kind of DAOs that we have shares in, more like y combinator.  This would not only help us invest in the right projects and build the long term capital of DAOinc, but signal that we're the first group doing this.  If money was left over, infrastructure like offices, conference travel... so 7 or 8.
+
+Beth: Also wanted to say -- having y combinator-like support for other DAOs, connecting them with people who can offer particular types of support \(internet dropped...\) agree that being able to directly invest in DAOs in addition to doing research could be  good.  Didn't realize that was on the table.
+
+Pedro: 7.  Even though things are not crystal clear, we are developing a track record of healthy dispute resolution.  We maynot know how to get there, but our ability to build consensus is  promise, we're experimental and we rock.
+
+Phil: 1-8 is a big spread, I'd be on the low side.  I think the promising thing is we can get to the high  side quickly, but at the moment we lack a clear idea of what we can deliver and because we're an emerging org.  It's hard to make plans. Apart from havaing an idea of what to do with it also means defining an allocation process, which we haven't done.  Not a roadblock.  I love Dani's idea of having a fund and spending 1/2  the money as he proposed.  The first things I could think of beyond the basic HR, subscriptions, etc. is to think about how to form programs and deliver on a roadmap for each circle.  Not also circle have deliverables, timelines, goals etc b/c we're not funded.  That would be a good way to go.
+
+Max: From my side: 3.  I've heard interesting idea, especially wit hthe fund.  I thought to propose a synchronized strategic session around this but with several people calling themselves 8s it may not be necessary.  It's possible we can also do it if someone will need it.  
 
 ## Announcements
 
 ### Adam / Art/ design circle questionnaires
+
+### Closing thoughts
+
+Felipe: I think the  grant magnetized our attention, I enjoyed the call:
+
+Phil: Good call, fast and efficient.  I like this idea from the end about synchronized strategic session.  Of course it would be easier if  we had the money, maybe we solve that first.
+
+Beth: Don't forget to vote on the art circle thing!
+
+Dani: Great call, thanks Theo and everyone else.  I hope this pushes us to GET that million dollars. We should have a deck ready for projects moving forward, in case we get the money.  And we need a website.
+
+Pedro: I created a place in my hosting plan to have the site and I was waiting for a final OK from Lili to  make sure we don't launch something without her final OK.  Dani, I need to coordinate with you how to connect the domain to the hosting.  Meeting was good, we could improve trying to list the topics before the call.  The day before, put the topics together async.
+
+Theo: I agree, efficient good call.  And I agree with Pedro.  maybe we can have a chat bot to remind us aabout that.  Awesome chat, good talking to you guys.
+
+Max: I also liked the call, I'll formalize some of these ideas into a doc about the value we can provide for the world.  "Strategy" in terms of grant phrasing.  And maybe they'll ask for this plan before giving us the million.  Thanks everyone!
 
