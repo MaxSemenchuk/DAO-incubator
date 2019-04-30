@@ -111,17 +111,13 @@ Leader: Cory
 
 Leader: 
 
-### Community circle
+### Community/administrative circle
 
 Leader: Adam
 
 ### Research circle
 
 Leader: 
-
-### Administrative circle:
-
-Leader:
 
 ## Advisors:
 
