@@ -44,6 +44,7 @@
   * [Core call 15.04.2019](org/tacticals/core-call-15.04.2019.md)
   * [Tactical Call 22.04.19](org/tacticals/wg-call-22.04.19.md)
   * [Tactical 29.04.19](org/tacticals/tactical-29.04.19.md)
+  * [Tactical 06.05.19](org/tacticals/tactical-06.05.19.md)
 
 ## Projects
 
