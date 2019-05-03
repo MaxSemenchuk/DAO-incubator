@@ -29,7 +29,7 @@ Fund to sponsor the DAOs
 
 Regular workshop to improve fresh DAO ideas
 
-### DAO 8 weeks incubation program \(?\)
+### DAO Legal Advisory
 
 Description coming
 
