@@ -30,5 +30,9 @@ A good case study for a tangible deliverable that's struggling.  How can we do b
 
 The trello was a great step forward, but we can dogfood something more advanced
 
+
+
 ## Announcement
+
+### Tuna's survey
 
