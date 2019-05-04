@@ -16,6 +16,8 @@ that are not listed, and rearrange the order of topics in case anyone is worried
 
 What gaps exist in the current roles?  Can we establish a general process for filling gaps once they're identified?
 
+Also, our _offboarding_ procedure fell by the wayside awhile back, we need to revisit it.
+
 ### Adam / Circles 
 
 Some circles don't have a leader, so it's hard to track who's responsible for what.
@@ -39,8 +41,6 @@ The site is a good case study of a tangible deliverable that we're struggling to
 ### Pedro / Cem's idea: a ledger for accounting the work we've been doing \(to eventually get paid for work we've done, and to keep track of what's going on\)
 
 The trello was a great step forward, but we can dogfood something more advanced
-
-### Pedro / Cem's other idea: offboarding procedure
 
 ## Announcement
 
