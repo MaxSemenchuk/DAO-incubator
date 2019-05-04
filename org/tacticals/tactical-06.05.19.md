@@ -16,7 +16,7 @@ that are not listed, and rearrange the order of topics in case anyone is worried
 
 What gaps exist in the current roles?  Can we establish a general process for filling gaps once they're identified?
 
-Also, our _offboarding_ procedure fell by the wayside awhile back, we need to revisit it.
+Also, our _offboarding_ procedure fell by the wayside awhile back, perhaps it's time to revisit it?
 
 ### Adam / Circles 
 
