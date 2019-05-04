@@ -40,7 +40,7 @@ The site is a good case study of a tangible deliverable that we're struggling to
 
 The trello was a great step forward, but we can dogfood something more advanced
 
-
+### Pedro / Cem's other idea: offboarding procedure
 
 ## Announcement
 
