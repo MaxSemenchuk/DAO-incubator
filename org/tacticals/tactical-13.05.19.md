@@ -2,7 +2,7 @@
 
 ## Updates
 
-Theo: EU grants -- GIZ isn't getting involved and we don't hve the track record to get involved at this point in time, but we should stay in touch so we can come on as a contractor later.
+Theo: EU grants -- GIZ isn't getting involved and DAOinc doesn't hve the track record to get involved at this point in time, but we should stay in touch so we can come on as a contractor later.
 
 Dani: My updates -- I'm getting ready for Malta next week to discuss the legal side of DAOs, doing a workshop with Beth and Wassim, and cohosted this blockchain for science thing where Theo represented DAOincubator a lot, thinking about about becoming a public investment being for DAOs.  I have to do a lot of thinking on that before it's ready to be released, probably in 2-3 weeks.  I also analyzed Moloch and MetaCartel \(who we also had an apiary call with\) 
 

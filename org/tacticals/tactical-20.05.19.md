@@ -10,7 +10,7 @@ that are not listed, and rearrange the order of topics in case anyone is worried
 
 ## Discussion
 
-
+### Adam / Tuna's procedure proposal passed.  Next step is defining some roles
 
 ## Announcements
 
