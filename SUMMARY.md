@@ -24,6 +24,7 @@
   * [Expertise Center](org/governance/expertise-center.md)
   * [Funding](org/governance/funding.md)
   * [Roles and Permissions](org/governance/roles-and-permissions.md)
+  * [Incubation procedure](org/governance/incubation-procedure.md)
   * [Strategy \(max edition\)](org/governance/max-strategy.md)
 * [Reports](org/reports/README.md)
   * [March 2019](org/reports/march-2019.md)
