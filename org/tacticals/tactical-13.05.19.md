@@ -6,3 +6,7 @@
 
 ## Max / How we can realize funding and legal needs of DAOs?
 
+### 
+
+### Dani/ Proposals re:Moloch and joining metacartel's fork
+
