@@ -13,6 +13,8 @@
   * [Innovation Ç](dao/innovation-c.md)
   * [Betoken](dao/betoken.md)
   * [Personal Tokens](dao/personal-tokens.md)
+  * [Audacity](dao/audacity.md)
+  * [CementDAO](dao/cementdao.md)
 * [Mentors](mentors.md)
 
 ## Org
@@ -45,6 +47,7 @@
   * [Tactical Call 22.04.19](org/tacticals/wg-call-22.04.19.md)
   * [Tactical 29.04.19](org/tacticals/tactical-29.04.19.md)
   * [Tactical 06.05.19](org/tacticals/tactical-06.05.19.md)
+  * [Tactical 13.05.19](org/tacticals/tactical-13.05.19.md)
 
 ## Projects
 

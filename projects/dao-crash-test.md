@@ -8,7 +8,7 @@ Purpose: test and enhance DAO concepts, mechanics and ideas.
 
 Creators don't like to receive negative feedback, as it demotivates. Experts don't \(usually\) like to share negative feedback or harsh improvements unless they really have to. Sometimes it's easier is to say this is an 'ok' idea than go into an argument. So we focus the workshop on specifically critical feedback and ask somebody to be a receiver instead of the creator himself. Also through several iterations of feedback teams work on testing and improving the concepts accelerating the learning big way. It's also a way to work on your idea with a wide range of great experts from different fields \(tech, econ, legal etc\). 
 
-[**&gt; Registration**](https://docs.google.com/forms/d/e/1FAIpQLScTdgDAFykFMhoPj6vwYSKlt-EQQNGERtkKEG0llNI7BT1ndQ/viewform)\*\*\*\*
+\*\*\*\*[**&gt; Report from the workshop**](https://forum.dgov.foundation/t/dao-crash-test-1-report/45)\*\*\*\*
 
 ## Roles
 
