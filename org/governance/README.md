@@ -1,38 +1,53 @@
 # Strategy & Governance
 
+## Strategy 2019
+
 Our purpose is to create more successful DAO pilots, through research, experiments and incubation.
 
-## Goals 2019 / Responsible
+## 1. Support [DAOs](../../dao/) Development
 
-### 1. Help [DAOs](../../dao/) – [Mentors](../../mentors.md)
+* Help with funding
+  * [Setup fund](./#fund)
+  * Do demo days with investors
+* Help with legal
+  * [Legal design working group](./#legal-design-working-group)
+* Educate
+  * Teach soft governance
+  * [~~Develop the DAO Crash Test Workshop~~](../../projects/dao-crash-test.md)~~~~
+  * [Quality Assurance and Accountability Framework \(QAAF\)](./#quality-assurance-and-accountability-framework-qaaf)
+
+### Fund
+
+We can be the first GP group in a permissionless alliance, and we'll be connected to a fundraising mechanism and get a cut of the tokens that's yet to be defined.  
+
+### Legal design working group
+
+Translate human readable language into solidity -- i.e. expressing smart contracts in human readable grammar.  There wer supposed to be two elements: a code translations and a legal translation -- what is this DAO's personhood?  Jurisdiciton? etc.?  
+
+### Quality Assurance and Accountability Framework \(QAAF\)
+
+The basic idea behind the DANk – decentralized accountability network. A group of people who accept the responsibility. Ensuring proposal accountability – main responsibility of ATF. Accountability as willingness to take responsibility, foster a culture for quality and accountability. Informal group with set membership, who will perform that task of keeping the accepted behaviour in the DAO. Pioneering in the Genesis DAO. When there's a proven DANk we can create new DANks.
+
+[Read more](https://docs.google.com/document/d/1LLdsYCQi2fDiV2svFEzZGgsYn81cLlcfQ3kE_1OrKwo/edit)
+
+## 2. Increase Team Capacity
 
 * Research products / approaches of other incubators
   * Talk to Nathan Schneider / [Start Coop](https://start.coop/)
   * Talk to [https://www.incubator.coop/](https://www.incubator.coop/)
-* [Develop the DAO Crash Test Workshop](../../projects/dao-crash-test.md)
-* Help with funding
-  * Understand who can fund them
-  * Do Demo days or smth like that
-* Educate
-  * Start in networks with good soft governance first?
-  * [Webinars/AMA by request](../../projects/dao-webinar-panel.md)
+* Form an organizational architecture with filled roles
+* Establish relationships with the ecosystem
+  * Develop monthly reports
+  * Publish updates on twitter and telegram group
+* Get funding – Funding & Grants manager
 
-### 2. Form an organizational architecture with filled roles – [Directorship](roles-and-permissions.md#directorship)
-
-### 3. Establish relationships with the ecosystem – [Communications](roles-and-permissions.md#communications)
-
-* Develop monthly reports
-* Publish updates on twitter and telegram group
-
-### 4. Launch research initiatives & start publishing – [Expertise Center](roles-and-permissions.md#expertise-centre)
-
-### 5. Start DAOincubator PoC – [Funding & Grants manager](roles-and-permissions.md#funding-and-grants-manager)
+Max: We've got several new applications, like audacity, etc. People are mostly asking for legal and funding advice.  Assuming we get some traction and funding ourselves, we should brainstorm how to satisfy those needs.  
 
 ## Policies
 
 ### Decision Making
 
-Decision are made on Loomio group \([call 01.04](https://dao-incubator.gitbook.io/wiki/org/tacticals/wg-call-xx.03.2019)\).
+Decisions are made on Loomio group \([call 01.04](https://dao-incubator.gitbook.io/wiki/org/tacticals/wg-call-xx.03.2019)\).
 
 ### Biz model
 
