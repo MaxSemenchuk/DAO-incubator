@@ -11,7 +11,7 @@ Our purpose is to create more successful DAO pilots, through research, experimen
   * Do demo days with investors
 * Help with legal
   * [Legal design working group](./#legal-design-working-group)
-* Educate
+* Speed up learning
   * Teach soft governance
   * [~~Develop the DAO Crash Test Workshop~~](../../projects/dao-crash-test.md)~~~~
   * [Quality Assurance and Accountability Framework \(QAAF\)](./#quality-assurance-and-accountability-framework-qaaf)
