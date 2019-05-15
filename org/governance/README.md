@@ -13,7 +13,7 @@ Our purpose is to create more successful DAO pilots, through research, experimen
   * [Legal design working group](./#legal-design-working-group)
 * Speed up learning
   * Teach soft governance
-  * [~~Develop the DAO Crash Test Workshop~~](../../projects/dao-crash-test.md)~~~~
+  * [~~Develop the DAO Crash Test Workshop~~](../../projects/dao-crash-test/)~~~~
   * [Quality Assurance and Accountability Framework \(QAAF\)](./#quality-assurance-and-accountability-framework-qaaf)
 
 ### Fund

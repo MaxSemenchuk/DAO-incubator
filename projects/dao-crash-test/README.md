@@ -1,14 +1,11 @@
-# DAO Crash Test \#1
+# DAO Crash Test Workshop
 
-**Time:** Tue Apr 23, 5pm - 6:30pm CET  
 **Format:** Online Workshop based on the [CE Ritual Dissent](https://cognitive-edge.com/methods/ritual-dissent/)  
-**Participants:** DAO incubator [DAOs](../dao/) & [mentors](../mentors.md)
+**Participants:** DAO incubator [DAOs](../../dao/) & [mentors](../../mentors.md)
 
 Purpose: test and enhance DAO concepts, mechanics and ideas.
 
 Creators don't like to receive negative feedback, as it demotivates. Experts don't \(usually\) like to share negative feedback or harsh improvements unless they really have to. Sometimes it's easier is to say this is an 'ok' idea than go into an argument. So we focus the workshop on specifically critical feedback and ask somebody to be a receiver instead of the creator himself. Also through several iterations of feedback teams work on testing and improving the concepts accelerating the learning big way. It's also a way to work on your idea with a wide range of great experts from different fields \(tech, econ, legal etc\). 
-
-\*\*\*\*[**&gt; Report from the workshop**](https://forum.dgov.foundation/t/dao-crash-test-1-report/45)\*\*\*\*
 
 ## Roles
 
@@ -58,7 +55,7 @@ The spokespeople need to move to the next room. When your team spokesperson left
 
 If the group are happy to listen for more time they may do so, but from this point onwards the spokesperson can be made to stop or don the mask finished or not. They must present to silence \(the group may not comment or interact with the spokesperson in any way\) and then turn round or don the mask, using the clipboard to take notes on what they hear.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
 This is how it looks in the regular offline mode. The guy in white shirt \(spokesperson\) pretends he's not there, just writing every bit of feedback

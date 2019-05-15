@@ -53,6 +53,8 @@
 
 ## Projects
 
-* [DAO Crash Test \#1](projects/dao-crash-test.md)
+* [DAO Crash Test Workshop](projects/dao-crash-test/README.md)
+  * [DCT \#1 23.04](projects/dao-crash-test/dct-1-23.04.md)
+  * [DCT \#2 - 22.05](projects/dao-crash-test/dct-2-22.05.md)
 * [DAO Webinars / Panels](projects/dao-webinar-panel.md)
 
