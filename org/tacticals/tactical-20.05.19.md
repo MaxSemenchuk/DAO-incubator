@@ -40,7 +40,13 @@ B\) With short term funding, we could establish a "keep the lights on" fund to c
 
 C\) Speculation with some of these funds could be part of a larger fierce care strategy.
 
-### Adam / Tuna's procedure proposal passed.  Next step is defining some roles
+### Adam / Tuna's procedure proposal passed. It's time to pilot it
+
+What roles will be required for a minimum viable pilot?
+
+
+
+
 
 
 
