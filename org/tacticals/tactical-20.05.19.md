@@ -32,7 +32,7 @@ Help is always welcome
 
 ### Pedro + Beth + Adam / Limited short term funding solutions
 
-We're working on some genDAO proposals that will, at least one of them, the DAO2DAO and maybe more, bring in some small but concrete funding to DAOincubator.  \(Describe DAO2DAO for people on call.\)  This raises a couple of points:
+We're working on some genDAO proposals that will, at least one of them, the DAO2DAO and maybe more, bring in some small but concrete funding to DAOincubator.  \(Describe DAO2DAO for people on call.\)  This raises several points:
 
 A\) We are actively pursuing projects that are likely to bring in near term funding and believe it's crucial that more work like this be done.  Practice fierce care as an organizational principle and adapt collective strategies for stewarding DAOincubator.  This is an important component of our vision for the way to run the DAOincubator at this stage.
 
@@ -43,10 +43,6 @@ C\) Speculation with some of these funds could be part of a larger fierce care s
 ### Adam / Tuna's procedure proposal passed. It's time to pilot it
 
 What roles will be required for a minimum viable pilot?
-
-
-
-
 
 
 
