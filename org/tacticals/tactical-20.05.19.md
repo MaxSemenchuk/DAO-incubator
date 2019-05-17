@@ -8,22 +8,6 @@ Meeting format: names indicate who will lead that section of the discussion. At 
 
 that are not listed, and rearrange the order of topics in case anyone is worried about an important topic getting missed because it's too low in the agenda
 
-## Discussion
-
-### Adam + Pedro + Beth / Limited short term funding solutions
-
-We're working on some genDAO proposals that will, at least one of them and maybe more, bring in some small but concrete funding to DAOincubator.  This raises a couple of points:
-
-A\) We are actively pursuing projects that are likely to bring in near term funding and believe it's crucial that more work like this be done.  Practice fierce care as an organizational principle and adapt collective strategies for stewarding DAOincubator.  
-
-B\) With short term funding, we could establish a "keep the lights on" fund to cover domain expenses, etc.
-
-C\) Speculation with some of these funds could be part of a larger fierce care strategy.
-
-D\) 
-
-### Adam / Tuna's procedure proposal passed.  Next step is defining some roles
-
 ## Announcements
 
 ### Adam / Max's 2nd DAO Crash test is this wednesday
@@ -37,4 +21,26 @@ The [guidelines](https://docs.google.com/document/d/1U7CO2Qw8Utf_0_uyeeJ1X6WSY0C
 ### Adam / Call for more devs to join the Trojan Foundation
 
 The TF is looking for more dev support -- any thoughts on where we can find support, possibly support who would agree that its pay be conditional on TF's success in fundraising/grant seeking?
+
+### Adam + Pedro / Seeking feedback ahead of our union call
+
+### Pedro + Adam / We've made progress on the site, but still behind
+
+Help is always welcome
+
+## Discussion
+
+### Pedro + Beth + Adam / Limited short term funding solutions
+
+We're working on some genDAO proposals that will, at least one of them, the DAO2DAO and maybe more, bring in some small but concrete funding to DAOincubator.  \(Describe DAO2DAO for people on call.\)  This raises a couple of points:
+
+A\) We are actively pursuing projects that are likely to bring in near term funding and believe it's crucial that more work like this be done.  Practice fierce care as an organizational principle and adapt collective strategies for stewarding DAOincubator.  This is an important component of our vision for the way to run the DAOincubator at this stage.
+
+B\) With short term funding, we could establish a "keep the lights on" fund to cover domain expenses, etc.
+
+C\) Speculation with some of these funds could be part of a larger fierce care strategy.
+
+### Adam / Tuna's procedure proposal passed.  Next step is defining some roles
+
+
 
