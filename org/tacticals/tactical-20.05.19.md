@@ -24,6 +24,12 @@ The [guidelines](https://docs.google.com/document/d/1U7CO2Qw8Utf_0_uyeeJ1X6WSY0C
 
 The TF is looking for more dev support -- any thoughts on where we can find support, possibly support who would agree that its pay be conditional on TF's success in fundraising/grant seeking?
 
+### Pedro + Beth + Adam / Pursuing limited short term funding solutions
+
+We're working on some genDAO proposals that will, at least one of them, the DAO2DAO and maybe more, bring in some small but concrete funding to DAOincubator.  \(Describe\)
+
+Related thoughts: With short term funding, we could establish a "keep the lights on" fund to cover domain expenses, etc. Speculation with some of these funds could help this fund from being drained.
+
 ### Adam + Pedro / Seeking feedback ahead of our union call
 
 ### Pedro + Adam / We've made progress on the site, but still behind
@@ -31,16 +37,6 @@ The TF is looking for more dev support -- any thoughts on where we can find supp
 Help is always welcome
 
 ## Discussion
-
-### Pedro + Beth + Adam / Limited short term funding solutions
-
-We're working on some genDAO proposals that will, at least one of them, the DAO2DAO and maybe more, bring in some small but concrete funding to DAOincubator.  \(Describe DAO2DAO for people on call.\)  This raises several points:
-
-A\) We are actively pursuing projects that are likely to bring in near term funding and believe it's crucial that more work like this be done.  Practice fierce care as an organizational principle and adapt collective strategies for stewarding DAOincubator.  This is an important component of our vision for the way to run the DAOincubator at this stage.
-
-B\) With short term funding, we could establish a "keep the lights on" fund to cover domain expenses, etc.
-
-C\) Speculation with some of these funds could be part of a larger fierce care strategy.
 
 ### Adam / Tuna's procedure proposal passed. It's time to pilot it
 
