@@ -15,6 +15,7 @@
   * [Personal Tokens](dao/personal-tokens.md)
   * [Audacity](dao/audacity.md)
   * [CementDAO](dao/cementdao.md)
+  * [DAO 4Gig](dao/dao-4gig.md)
 * [Mentors](mentors.md)
 
 ## Org

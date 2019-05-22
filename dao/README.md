@@ -13,6 +13,9 @@
 * [Innovation Ç](innovation-c.md)
 * [Betoken](betoken.md)
 * [Personal Tokens](personal-tokens.md)
+* [Audacity](audacity.md)
+* [CementDAO](cementdao.md)
+* [DAO 4Gig](dao-4gig.md)
 
 [**Apply here &gt;**](https://goo.gl/forms/Q7GUj7Bcp2px0Q7R2)\*\*\*\*
 
