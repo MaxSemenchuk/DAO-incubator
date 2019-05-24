@@ -51,7 +51,7 @@
   * [Tactical 06.05.19](org/tacticals/tactical-06.05.19.md)
   * [Tactical 13.05.19](org/tacticals/tactical-13.05.19.md)
   * [Tactical 20.05.19](org/tacticals/tactical-20.05.19.md)
-  * [Tactical 27.05](org/tacticals/tactical-27.05.md)
+  * [Tactical 27.05.19](org/tacticals/tactical-27.05.md)
 
 ## Projects
 
