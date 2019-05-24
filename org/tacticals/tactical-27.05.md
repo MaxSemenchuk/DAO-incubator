@@ -18,9 +18,9 @@ Thinking in terms of software development, this procedure's approval marks a dep
 
 ### Pedro \(Adam as a backup\) / DAOincubator reboot
 
-cleaning up trello board, Pedro take over funding circle lead -- he's been cutting costs already and is pursing multiple microgrants on genDAO, has already taken the initiative.  Also testing the Notion.so app \(a freemium version of quip\)
+Pedro wants to clean up trello and Pedro take over as funding circle lead -- he's already taken initiative by helping to cut costs and  pursuing multiple microgrants on genDAO.  He's testing the Notion.so app \(a freemium version of quip\)
 
-Others have led the circle until now, and now Pedro has the momentum.  In the future, someone could co lead or take the mantle from him.
+Others have led the circle until now, and now Pedro has the momentum to be effective in that role.  In the future, someone could co lead or take the mantle from him.
 
 
 
