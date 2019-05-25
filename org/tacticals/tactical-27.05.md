@@ -23,7 +23,7 @@ So the may diference between testing and staging is the fidelity to IRL conditio
 Maybe it's time to try different approaches. I suggest that, for starters, we pick a clean slate for a few areas:
 
 * PR \(website, branding\)
-* project management \(trello\)
+* project management \(kanban\)
 * funding \(strategy, plan\)
 * Org structure \(from circles to cells\)
 
