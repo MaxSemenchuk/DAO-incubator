@@ -6,6 +6,10 @@
 
 ## Discussion
 
+### Dani / List of DAOincubator achievements
+
+Dani would like to make a live poll listing 3 personal or collective achievements that people believe were made at DAO Incubator.
+
 ###  Pedro / Testing Tuna's incubation procedure before the Starfish "dry run"
 
 Thinking in terms of software development, this procedure's approval marks a deployment from dev environment \(Tuna's miro board\) to testing environment \(rehearsal, simulation, other types of testing\) . then staging \(starfish\), to finally production \(external DAO\). 
