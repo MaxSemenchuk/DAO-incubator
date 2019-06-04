@@ -26,9 +26,10 @@ Twitter: [@dOrgJelli](https://twitter.com/dOrgJelli)
 
 ## Haythem Sellami
 
-Natanedu, Trojan Foundatio, Coinsence  
+Trojan Foundation, Coinsence  
 Expertise: Development  
-Twitter: [@HS10010110](https://twitter.com/HS10010110)
+Twitter: [@HS10010110](https://twitter.com/HS10010110)  
+Email: haythem@daoincubator.org
 
 ## James Duncan
 
