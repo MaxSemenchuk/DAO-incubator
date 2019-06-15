@@ -61,3 +61,9 @@ First bunch of incubatees are incubated for free, expenses are covered by grants
 * [Community Task Board](https://trello.com/b/XrAjqdlO/dao-incubator)
 * [Realtime Mindmap](https://realtimeboard.com/welcomeonboard/3U2M3hyQolAUfwf8PFIvLIksh2h3HVR2gzBZs0LGrRCYoAgTvyUB668VA5tupte7)
 
+
+
+## References
+
+[https://start.coop/](https://start.coop/)
+
